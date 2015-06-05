@@ -1,0 +1,5285 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<likebox>
+
+  <settings>
+    <sharing>
+      <url>http://likebox.gettyimages.com/</url>
+    </sharing>
+    <storage>
+      <url>/content/</url>
+      <directories>
+        <images>
+          <small>/images/small/</small>
+          <medium>/images/medium/</medium>
+        </images>
+        <videos>
+          <small>/images/small/</small>
+          <medium>/images/medium/</medium>
+          <video>/videos/</video>
+        </videos>
+      </directories>
+    </storage>
+  </settings>
+
+  <collections>
+
+    <who>
+      <images>
+        <image>
+          <id>85570298</id>
+          <small>85570298_10.jpg</small>
+          <medium>85570298_10.jpg</medium>
+          <credit><![CDATA[85570298, Guy Batey/Flickr]]></credit>
+        </image>
+        <image>
+          <id>85154068</id>
+          <small>85154068_5.jpg</small>
+          <medium>85154068_5.jpg</medium>
+          <credit><![CDATA[85154068, Phil Sharp/Flickr]]></credit>
+        </image>
+        <image>
+          <id>85461782</id>
+          <small>85461782_10.jpg</small>
+          <medium>85461782_10.jpg</medium>
+          <credit><![CDATA[85461782, Yuki Nakano/Flickr]]></credit>
+        </image>
+        <image>
+          <id>85696745</id>
+          <small>85696745_20.jpg</small>
+          <medium>85696745_20.jpg</medium>
+          <credit><![CDATA[85696745, Maciej Toporowicz, NYC/Flickr]]></credit>
+        </image>
+        <image>
+          <id>85072318</id>
+          <small>85072318_5.jpg</small>
+          <medium>85072318_5.jpg</medium>
+          <credit><![CDATA[85072318, Tiago Ribeiro/Flickr]]></credit>
+        </image>
+        <image>
+          <id>87843985</id>
+          <small>87843985_10.jpg</small>
+          <medium>87843985_10.jpg</medium>
+          <credit><![CDATA[87843985, Peter Baker/Flickr]]></credit>
+        </image>
+        <image>
+          <id>86429642</id>
+          <small>86429642_10.jpg</small>
+          <medium>86429642_10.jpg</medium>
+          <credit><![CDATA[86429642, I'm passionate about film/Flickr]]></credit>
+        </image>
+        <image>
+          <id>85459737</id>
+          <small>85459737_5.jpg</small>
+          <medium>85459737_5.jpg</medium>
+          <credit><![CDATA[85459737, Ralf Stockmann Photography/Flickr]]></credit>
+        </image>
+        <image>
+          <id>tlp885670</id>
+          <small>tlp885670.jpg</small>
+          <medium>tlp885670.jpg</medium>
+          <credit><![CDATA[tlp885670, Paul Schutzer/Time & Life Pictures]]></credit>
+        </image>
+        <image>
+          <id>sb10068807a-001</id>
+          <small>sb10068807a-001.jpg</small>
+          <medium>sb10068807a-001.jpg</medium>
+          <credit><![CDATA[sb10068807a-001, Michael Blann/Stone]]></credit>
+        </image>
+        <image>
+          <id>sb10064836b-001</id>
+          <small>sb10064836b-001.jpg</small>
+          <medium>sb10064836b-001.jpg</medium>
+          <credit><![CDATA[sb10064836b-001, Blasius Erlinger/Photonica]]></credit>
+        </image>
+        <image>
+          <id>sb10062547k-001</id>
+          <small>sb10062547k-001.jpg</small>
+          <medium>sb10062547k-001.jpg</medium>
+          <credit><![CDATA[sb10062547k-001,Kai Wiechmann/Stone+]]></credit>
+        </image>
+        <image>
+          <id>JJ9650-001</id>
+          <small>JJ9650-001.jpg</small>
+          <medium>JJ9650-001.jpg</medium>
+          <credit><![CDATA[JJ9650-001, Ritchie Stirling/Hulton Archive]]></credit>
+        </image>
+        <image>
+          <id>JJ9604-001</id>
+          <small>JJ9604-001.jpg</small>
+          <medium>JJ9604-001.jpg</medium>
+          <credit><![CDATA[JJ9604-001, Ritchie Stirling/Hulton Archive]]></credit>
+        </image>
+        <image>
+          <id>BB6390-001</id>
+          <small>BB6390-001.jpg</small>
+          <medium>BB6390-001.jpg</medium>
+          <credit><![CDATA[BB6390-001, Spike Walker/Stone]]></credit>
+        </image>
+        <image>
+          <id>200563224-003</id>
+          <small>200563224-003.jpg</small>
+          <medium>200563224-003.jpg</medium>
+          <credit><![CDATA[200563224-003, Kanako Sasaki/Stone+]]></credit>
+        </image>
+        <image>
+          <id>200514990-001</id>
+          <small>200514990-001.jpg</small>
+          <medium>200514990-001.jpg</medium>
+          <credit><![CDATA[200514990-001, Joe Baran/Photonica]]></credit>
+        </image>
+        <image>
+          <id>200382938-004</id>
+          <small>200382938-004.jpg</small>
+          <medium>200382938-004.jpg</medium>
+          <credit><![CDATA[200382938-004, Erik Von Weber/Stone+]]></credit>
+        </image>
+        <image>
+          <id>200382879-006</id>
+          <small>200382879-006.jpg</small>
+          <medium>200382879-006.jpg</medium>
+          <credit><![CDATA[200382879-006, Erik Von Weber/Stone+]]></credit>
+        </image>
+        <image>
+          <id>200251221-001</id>
+          <small>200251221-001.jpg</small>
+          <medium>200251221-001.jpg</medium>
+          <credit><![CDATA[200251221-001, DreamPictures/Stone]]></credit>
+        </image>
+        <image>
+          <id>200158899-009</id>
+          <small>200158899-009.jpg</small>
+          <medium>200158899-009.jpg</medium>
+          <credit><![CDATA[200158899-009, Trujillo-Paumier/Stone]]></credit>
+        </image>
+        <image>
+          <id>200128480-001</id>
+          <small>200128480-001.jpg</small>
+          <medium>200128480-001.jpg</medium>
+          <credit><![CDATA[200128480-001, Chev Wilkinson/Stone+]]></credit>
+        </image>
+        <image>
+          <id>200128139-001</id>
+          <small>200128139-001.jpg</small>
+          <medium>200128139-001.jpg</medium>
+          <credit><![CDATA[200128139-001, Jens Lucking/Stone+]]></credit>
+        </image>
+        <image>
+          <id>200068371-001</id>
+          <small>200068371-001.jpg</small>
+          <medium>200068371-001.jpg</medium>
+          <credit><![CDATA[200068371-001, Bryce Duffy/Stone+]]></credit>
+        </image>
+        <image>
+          <id>200017889-001</id>
+          <small>200017889-001.jpg</small>
+          <medium>200017889-001.jpg</medium>
+          <credit><![CDATA[200017889-001, Peter Beavis/Taxi]]></credit>
+        </image>
+        <image>
+          <id>86429553</id>
+          <small>86429553.jpg</small>
+          <medium>86429553.jpg</medium>
+          <credit><![CDATA[86429553, Guy Batey/Flickr]]></credit>
+        </image>
+        <image>
+          <id>85703844</id>
+          <small>85703844.jpg</small>
+          <medium>85703844.jpg</medium>
+          <credit><![CDATA[85703844, Amy DeVoogd/Photodisc]]></credit>
+        </image>
+        <image>
+          <id>85569943</id>
+          <small>85569943.jpg</small>
+          <medium>85569943.jpg</medium>
+          <credit><![CDATA[85569943, Margarita Sarri/Flickr]]></credit>
+        </image>
+        <image>
+          <id>85525380</id>
+          <small>85525380.jpg</small>
+          <medium>85525380.jpg</medium>
+          <credit><![CDATA[85525380, sanwaree sethi/Flickr]]></credit>
+        </image>
+          <image>
+          <id>85472351</id>
+          <small>85472351.jpg</small>
+          <medium>85472351.jpg</medium>
+          <credit><![CDATA[85472351, jefra starr linn/Flickr]]></credit>
+        </image>
+        <image>
+          <id>85460922</id>
+          <small>85460922.jpg</small>
+          <medium>85460922.jpg</medium>
+          <credit><![CDATA[85460922, froodmat/Flickr Select]]></credit>
+        </image>
+        <image>
+          <id>85424042</id>
+          <small>85424042.jpg</small>
+          <medium>85424042.jpg</medium>
+          <credit><![CDATA[85424042, Luka Young/Flickr]]></credit>
+        </image>
+        <image>
+          <id>85390448</id>
+          <small>85390448.jpg</small>
+          <medium>85390448.jpg</medium>
+          <credit><![CDATA[85390448, Patricia Carou - Argentina/Flickr]]></credit>
+        </image>
+        <image>
+          <id>85151703</id>
+          <small>85151703.jpg</small>
+          <medium>85151703.jpg</medium>
+          <credit><![CDATA[85151703, photo by tedfoo/Flickr]]></credit>
+        </image>
+        <image>
+          <id>84425291</id>
+          <small>84425291.jpg</small>
+          <medium>84425291.jpg</medium>
+          <credit><![CDATA[84425291, Dean Golja/Photonica]]></credit>
+        </image>
+        <image>
+          <id>83493142</id>
+          <small>83493142.jpg</small>
+          <medium>83493142.jpg</medium>
+          <credit><![CDATA[83493142, Scott E Barbour/The Image Bank]]></credit>
+        </image>
+        <image>
+          <id>83297444</id>
+          <small>83297444.jpg</small>
+          <medium>83297444.jpg</medium>
+          <credit><![CDATA[83297444, James Lauritz/Photographer's Choice RF]]></credit>
+        </image>
+        <image>
+          <id>84914719</id>
+          <small>84914719.jpg</small>
+          <medium>84914719.jpg</medium>
+          <credit><![CDATA[84914719, Nick Ballon/Stone]]></credit>
+        </image>
+        <image>
+          <id>82853622</id>
+          <small>82853622.jpg</small>
+          <medium>82853622.jpg</medium>
+          <credit><![CDATA[82853622, Patrick Ryan/Stone]]></credit>
+        </image>
+        <image>
+          <id>82845718</id>
+          <small>82845718.jpg</small>
+          <medium>82845718.jpg</medium>
+          <credit><![CDATA[82845718, Kanako Sasaki/Photonica]]></credit>
+        </image>
+        <image>
+          <id>76875892</id>
+          <small>76875892.jpg</small>
+          <medium>76875892.jpg</medium>
+          <credit><![CDATA[Trent Reznor of Nine Inch Nails, Beijing China, September 9, 2007. 76875892, Chien-min Chung/Contributor]]></credit>
+        </image>
+        <image>
+          <id>73909015</id>
+          <small>73909015.jpg</small>
+          <medium>73909015.jpg</medium>
+          <credit><![CDATA[Hunter S. Thompson, Aspen CO, Circa 1976. 73909015, Michael Ochs Archives/Stringer]]></credit>
+        </image>
+        <image>
+          <id>891843-001</id>
+          <small>891843-001.jpg</small>
+          <medium>891843-001.jpg</medium>
+          <credit><![CDATA[891843-001, Amanda Friedman/Stone]]></credit>
+        </image>
+        <image>
+          <id>6550-000115</id>
+          <small>6550-000115.jpg</small>
+          <medium>6550-000115.jpg</medium>
+          <credit><![CDATA[6550-000115, Lisa Kimmell/Photonica]]></credit>
+        </image>
+        <image>
+          <id>6410-000529</id>
+          <small>6410-000529.jpg</small>
+          <medium>6410-000529.jpg</medium>
+          <credit><![CDATA[6410-000529, Charles Gullung/Photonica]]></credit>
+        </image>
+        <image>
+          <id>6238-000009</id>
+          <small>6238-000009.jpg</small>
+          <medium>6238-000009.jpg</medium>
+          <credit><![CDATA[6238-000009, Marc Tauss/Photonica]]></credit>
+        </image>
+        <image>
+          <id>3448-000107</id>
+          <small>3448-000107.jpg</small>
+          <medium>3448-000107.jpg</medium>
+          <credit><![CDATA[3448-000107, Leander Baerenz/Photonica]]></credit>
+        </image>
+        <image>
+          <id>3413-000029</id>
+          <small>3413-000029.jpg</small>
+          <medium>3413-000029.jpg</medium>
+          <credit><![CDATA[3413-000029, Jeremy Hilder/Photonica]]></credit>
+        </image>
+        <image>
+          <id>6025-000681</id>
+          <small>6025-000681.jpg</small>
+          <medium>6025-000681.jpg</medium>
+          <credit><![CDATA[6025-000681, Sharon Smith/Photonica]]></credit>
+        </image>
+        <image>
+          <id>6157-000545</id>
+          <small>6157-000545.jpg</small>
+          <medium>6157-000545.jpg</medium>
+          <credit><![CDATA[6157-000545, Carl Rosenstein/Photonica]]></credit>
+        </image>
+        <image>
+          <id>6300-000069</id>
+          <small>6300-000069.jpg</small>
+          <medium>6300-000069.jpg</medium>
+          <credit><![CDATA[6300-000069, Awakening Arts Corporation/Photonica]]></credit>
+        </image>
+        <image>
+          <id>6442-001031</id>
+          <small>6442-001031.jpg</small>
+          <medium>6442-001031.jpg</medium>
+          <credit><![CDATA[6442-001031, Lisa Pines/Photonica]]></credit>
+        </image>
+        <image>
+          <id>6474-000087</id>
+          <small>6474-000087.jpg</small>
+          <medium>6474-000087.jpg</medium>
+          <credit><![CDATA[6474-000087, MacGregor & Gordon/Photonica]]></credit>
+        </image>
+        <image>
+          <id>824509-001</id>
+          <small>824509-001.jpg</small>
+          <medium>824509-001.jpg</medium>
+          <credit><![CDATA[824509-001, Gabor Geissler/Stone]]></credit>
+        </image>
+        <image>
+          <id>82658507</id>
+          <small>82658507.jpg</small>
+          <medium>82658507.jpg</medium>
+          <credit><![CDATA[82658507, sot/Stone]]></credit>
+        </image>
+        <image>
+          <id>83908482</id>
+          <small>83908482.jpg</small>
+          <medium>83908482.jpg</medium>
+          <credit><![CDATA[83908482, Erik Von Weber/Stone]]></credit>
+        </image>
+        <image>
+          <id>84870732</id>
+          <small>84870732.jpg</small>
+          <medium>84870732.jpg</medium>
+          <credit><![CDATA[84870732, Robert Warren/Photonica]]></credit>
+        </image>
+        <image>
+          <id>85148104</id>
+          <small>85148104.jpg</small>
+          <medium>85148104.jpg</medium>
+          <credit><![CDATA[85148104, Mimi Haddon/Taxi]]></credit>
+        </image>
+        <image>
+          <id>85152311</id>
+          <small>85152311.jpg</small>
+          <medium>85152311.jpg</medium>
+          <credit><![CDATA[85152311, Steph Goralnick/Flickr]]></credit>
+        </image>
+        <image>
+          <id>85177524</id>
+          <small>85177524.jpg</small>
+          <medium>85177524.jpg</medium>
+          <credit><![CDATA[85177524, Brooke Johnson.Queline Photography/Flickr]]></credit>
+        </image>
+        <image>
+          <id>85187037</id>
+          <small>85187037.jpg</small>
+          <medium>85187037.jpg</medium>
+          <credit><![CDATA[85187037, Yuki Nakano/Flickr]]></credit>
+        </image>
+        <image>
+          <id>85187828</id>
+          <small>85187828.jpg</small>
+          <medium>85187828.jpg</medium>
+          <credit><![CDATA[85187828, Eddy Joaquim/Flickr]]></credit>
+        </image>
+        <image>
+          <id>85431856</id>
+          <small>85431856.jpg</small>
+          <medium>85431856.jpg</medium>
+          <credit><![CDATA[85431856, Loubie Lou/Photonica]]></credit>
+        </image>
+        <image>
+          <id>85473637</id>
+          <small>85473637.jpg</small>
+          <medium>85473637.jpg</medium>
+          <credit><![CDATA[85473637, Dan Bass/Flickr]]></credit>
+        </image>
+        <image>
+          <id>85745421</id>
+          <small>85745421.jpg</small>
+          <medium>85745421.jpg</medium>
+          <credit><![CDATA[85745421, www.orsike.com/Flickr]]></credit>
+        </image>
+        <image>
+          <id>85967522</id>
+          <small>85967522.jpg</small>
+          <medium>85967522.jpg</medium>
+          <credit><![CDATA[85967522, Irene Lamprakou/Flickr]]></credit>
+        </image>
+        <image>
+          <id>85967765</id>
+          <small>85967765.jpg</small>
+          <medium>85967765.jpg</medium>
+          <credit><![CDATA[85967765, Irene Lamprakou/Flickr]]></credit>
+        </image>
+        <image>
+          <id>85995795</id>
+          <small>85995795.jpg</small>
+          <medium>85995795.jpg</medium>
+          <credit><![CDATA[85995795, Hrvoje Goluza/Flickr]]></credit>
+        </image>
+        <image>
+          <id>86022960</id>
+          <small>86022960.jpg</small>
+          <medium>86022960.jpg</medium>
+          <credit><![CDATA[86022960, photo by canderson/Flickr]]></credit>
+        </image>
+        <image>
+          <id>86264120</id>
+          <small>86264120.jpg</small>
+          <medium>86264120.jpg</medium>
+          <credit><![CDATA[86264120, Susanne Friedrich/Flickr]]></credit>
+        </image>
+        <image>
+          <id>86291589</id>
+          <small>86291589.jpg</small>
+          <medium>86291589.jpg</medium>
+          <credit><![CDATA[86291589, Steve West/Taxi]]></credit>
+        </image>
+        <image>
+          <id>86377959</id>
+          <small>86377959.jpg</small>
+          <medium>86377959.jpg</medium>
+          <credit><![CDATA[86377959, Malin Svensson/Flickr]]></credit>
+        </image>
+        <image>
+          <id>86734506</id>
+          <small>86734506.jpg</small>
+          <medium>86734506.jpg</medium>
+          <credit><![CDATA[86734506, rappensuncle/Flickr]]></credit>
+        </image>
+        <image>
+          <id>87365516</id>
+          <small>87365516.jpg</small>
+          <medium>87365516.jpg</medium>
+          <credit><![CDATA[87365516, e&b photography/Flickr]]></credit>
+        </image>
+        <image>
+          <id>87861982</id>
+          <small>87861982.jpg</small>
+          <medium>87861982.jpg</medium>
+          <credit><![CDATA[87861982, ILina S/Flickr]]></credit>
+        </image>
+        <image>
+          <id>87915549</id>
+          <small>87915549.jpg</small>
+          <medium>87915549.jpg</medium>
+          <credit><![CDATA[87915549, JonPaul Douglass/Flickr]]></credit>
+        </image>
+        <image>
+          <id>87961507</id>
+          <small>87961507.jpg</small>
+          <medium>87961507.jpg</medium>
+          <credit><![CDATA[87961507, Josh Sommers/Flickr]]></credit>
+        </image>
+        <image>
+          <id>88010359</id>
+          <small>88010359.jpg</small>
+          <medium>88010359.jpg</medium>
+          <credit><![CDATA[88010359, Benoit Paillé/Flickr]]></credit>
+        </image>
+        <image>
+          <id>88198465</id>
+          <small>88198465.jpg</small>
+          <medium>88198465.jpg</medium>
+          <credit><![CDATA[88198465, shtroxy/Flickr]]></credit>
+        </image>
+        <image>
+          <id>88374085</id>
+          <small>88374085.jpg</small>
+          <medium>88374085.jpg</medium>
+          <credit><![CDATA[88374085, Dale Robinson/Flickr]]></credit>
+        </image>
+        <image>
+          <id>88469071</id>
+          <small>88469071.jpg</small>
+          <medium>88469071.jpg</medium>
+          <credit><![CDATA[88469071, Mitsuko Nagone/Flickr]]></credit>
+        </image>
+        <image>
+          <id>88500498</id>
+          <small>88500498.jpg</small>
+          <medium>88500498.jpg</medium>
+          <credit><![CDATA[88500498, transgress photography/Flickr]]></credit>
+        </image>
+        <image>
+          <id>88514967</id>
+          <small>88514967.jpg</small>
+          <medium>88514967.jpg</medium>
+          <credit><![CDATA[88514967, Photography makes me happy/Flickr]]></credit>
+        </image>
+        <image>
+          <id>88542965</id>
+          <small>88542965.jpg</small>
+          <medium>88542965.jpg</medium>
+          <credit><![CDATA[88542965, Alistair Baker/Photonica]]></credit>
+        </image>
+          <image>
+          <id>88576525</id>
+          <small>88576525.jpg</small>
+          <medium>88576525.jpg</medium>
+          <credit><![CDATA[88576525, Taylor Summach/Flickr]]></credit>
+        </image>
+        <image>
+          <id>88615463</id>
+          <small>88615463.jpg</small>
+          <medium>88615463.jpg</medium>
+          <credit><![CDATA[88615463, www.sapnasapien.blogspot.com/Flickr]]></credit>
+        </image>
+        <image>
+          <id>88635305</id>
+          <small>88635305.jpg</small>
+          <medium>88635305.jpg</medium>
+          <credit><![CDATA[88635305, Hamish Grant Photography/Flickr]]></credit>
+        </image>
+        <image>
+          <id>200118753-001</id>
+          <small>200118753-001.jpg</small>
+          <medium>200118753-001.jpg</medium>
+          <credit><![CDATA[200118753-001, Bob Thomas/Stone]]></credit>
+        </image>
+        <image>
+          <id>200295209-001</id>
+          <small>200295209-001.jpg</small>
+          <medium>200295209-001.jpg</medium>
+          <credit><![CDATA[200295209-001, Gary Bryan/Stone+]]></credit>
+        </image>
+        <image>
+          <id>200502151-001</id>
+          <small>200502151-001.jpg</small>
+          <medium>200502151-001.jpg</medium>
+          <credit><![CDATA[200502151-001, Jason Todd/Photonica ]]></credit>
+        </image>
+        <image>
+          <id>200545327-004</id>
+          <small>200545327-004.jpg</small>
+          <medium>200545327-004.jpg</medium>
+          <credit><![CDATA[200545327-004, Silvia Otte/Photonica]]></credit>
+        </image>
+        <image>
+          <id>200565325-003</id>
+          <small>200565325-003.jpg</small>
+          <medium>200565325-003.jpg</medium>
+          <credit><![CDATA[200565325-003, Marla Rutherford/Stone]]></credit>
+        </image>
+        <image>
+          <id>200571587-001</id>
+          <small>200571587-001.jpg</small>
+          <medium>200571587-001.jpg</medium>
+          <credit><![CDATA[200571587-001, Marcelo Santos/Stone+]]></credit>
+        </image>
+        <image>
+          <id>200572000-001</id>
+          <small>200572000-001.jpg</small>
+          <medium>200572000-001.jpg</medium>
+          <credit><![CDATA[200572000-001, Alexander Nicholson/Stone]]></credit>
+        </image>
+        <image>
+          <id>EC6753-004</id>
+          <small>EC6753-004.jpg</small>
+          <medium>EC6753-004.jpg</medium>
+          <credit><![CDATA[EC6753-004, Michael Kelley/Stone]]></credit>
+        </image>
+        <image>
+          <id>sb10065433l-004</id>
+          <small>sb10065433l-004.jpg</small>
+          <medium>sb10065433l-004.jpg</medium>
+          <credit><![CDATA[sb10065433l-004, Michael Blann/Stone+]]></credit>
+        </image>
+        </images>
+      <footage>
+        <video>
+          <id>656-11</id>
+          <images>
+            <small>GettyImages_656-11.jpg</small>
+            <medium>GettyImages_656-11.jpg</medium>
+          </images>
+          <flv>GettyImages_656-11_n1.flv</flv>
+          <credit><![CDATA[656-11, one80]]></credit>
+        </video>
+        <video>
+          <id>656-26</id>
+          <images>
+            <small>GettyImages_656-26.jpg</small>
+            <medium>GettyImages_656-26.jpg</medium>
+          </images>
+          <flv>GettyImages_656-26_n1.flv</flv>
+          <credit><![CDATA[656-26, one80]]></credit>
+        </video>
+          <video>
+          <id>792-47</id>
+          <images>
+            <small>GettyImages_792-47.jpg</small>
+            <medium>GettyImages_792-47.jpg</medium>
+          </images>
+          <flv>GettyImages_792-47_B.flv</flv>
+          <credit><![CDATA[792-47, one80]]></credit>
+        </video>
+          <video>
+          <id>800-72</id>
+          <images>
+            <small>GettyImages_800-72.jpg</small>
+            <medium>GettyImages_800-72.jpg</medium>
+          </images>
+          <flv>GettyImages_800-72_n1.flv</flv>
+          <credit><![CDATA[800-72, Image Bank Film]]></credit>
+        </video>
+          <video>
+          <id>846-3</id>
+          <images>
+            <small>GettyImages_846-3.jpg</small>
+            <medium>GettyImages_846-3.jpg</medium>
+          </images>
+          <flv>GettyImages_846-3_n.flv</flv>
+          <credit><![CDATA[846-3, one80]]></credit>
+        </video>
+          <video>
+          <id>846-10</id>
+          <images>
+            <small>GettyImages_846-10.jpg</small>
+            <medium>GettyImages_846-10.jpg</medium>
+          </images>
+          <flv>GettyImages_846-10_B3.flv</flv>
+          <credit><![CDATA[846-10, Image Bank Film]]></credit>
+        </video>
+          <video>
+          <id>969-7</id>
+          <images>
+            <small>GettyImages_969-7.jpg</small>
+            <medium>GettyImages_969-7.jpg</medium>
+          </images>
+          <flv>GettyImages_969-7_n.flv</flv>
+          <credit><![CDATA[969-7, Universal Studios ]]></credit>
+        </video>
+         <video>
+          <id>977-34</id>
+          <images>
+            <small>GettyImages_977-34.jpg</small>
+            <medium>GettyImages_977-34.jpg</medium>
+          </images>
+          <flv>GettyImages_977-34_B1.flv</flv>
+          <credit><![CDATA[977-34, one80]]></credit>
+        </video>
+         <video>
+          <id>80580888</id>
+          <images>
+            <small>GettyImages_80580888.jpg</small>
+            <medium>GettyImages_80580888.jpg</medium>
+          </images>
+          <flv>GettyImages_80580888_n.flv</flv>
+          <credit><![CDATA[80580888, Image Bank Film]]></credit>
+        </video>
+         <video>
+          <id>80823192</id>
+          <images>
+            <small>GettyImages_80823192.jpg</small>
+            <medium>GettyImages_80823192.jpg</medium>
+          </images>
+          <flv>GettyImages_80823192_B.flv</flv>
+          <credit><![CDATA[80823192, Art Wolfe Travels to the Edge]]></credit>
+        </video>
+         <video>
+          <id>80823233</id>
+          <images>
+            <small>GettyImages_80823233.jpg</small>
+            <medium>GettyImages_80823233.jpg</medium>
+          </images>
+          <flv>GettyImages_80823233_n1.flv</flv>
+          <credit><![CDATA[80823233, Art Wolfe Travels to the Edge]]></credit>
+        </video>
+         <video>
+          <id>80823250</id>
+          <images>
+            <small>GettyImages_80823250.jpg</small>
+            <medium>GettyImages_80823250.jpg</medium>
+          </images>
+          <flv>GettyImages_80823250_n.flv</flv>
+          <credit><![CDATA[80823250, Art Wolfe Travels to the Edge]]></credit>
+        </video>
+         <video>
+          <id>81618206</id>
+          <images>
+            <small>GettyImages_81618206.jpg</small>
+            <medium>GettyImages_81618206.jpg</medium>
+          </images>
+          <flv>GettyImages_81618206_n.flv</flv>
+          <credit><![CDATA[81618206, Art Wolfe Travels to the Edge]]></credit>
+        </video>
+         <video>
+          <id>81618436</id>
+          <images>
+            <small>GettyImages_81618436_n.jpg</small>
+            <medium>GettyImages_81618436_n.jpg</medium>
+          </images>
+          <flv>GettyImages_81618436_n.flv</flv>
+          <credit><![CDATA[81618436, Art Wolfe Travels to the Edge]]></credit>
+        </video>
+         <video>
+          <id>82552213</id>
+          <images>
+            <small>GettyImages_82552213.jpg</small>
+            <medium>GettyImages_82552213.jpg</medium>
+          </images>
+          <flv>GettyImages_82552213_B.flv</flv>
+          <credit><![CDATA[82552213, one80]]></credit>
+        </video>
+         <video>
+          <id>83060786</id>
+          <images>
+            <small>GettyImages_83060786.jpg</small>
+            <medium>GettyImages_83060786.jpg</medium>
+          </images>
+          <flv>GettyImages_83060786_B.flv</flv>
+          <credit><![CDATA[83060786, one80]]></credit>
+        </video>
+        <video>
+          <id>526-16</id>
+          <images>
+            <small>GettyImages_526-16_n.jpg</small>
+            <medium>GettyImages_526-16_n.jpg</medium>
+          </images>
+          <flv>GettyImages_526-16_n.flv</flv>
+          <credit><![CDATA[526-16, one80]]></credit>
+        </video>
+        <video>
+          <id>526-47</id>
+          <images>
+            <small>GettyImages_526-47_n.jpg</small>
+            <medium>GettyImages_526-47_n.jpg</medium>
+          </images>
+          <flv>GettyImages_526-47_n.flv</flv>
+          <credit><![CDATA[526-47, one80]]></credit>
+        </video>
+          <video>
+          <id>526-71</id>
+          <images>
+            <small>GettyImages_526-71_n.jpg</small>
+            <medium>GettyImages_526-71_n.jpg</medium>
+          </images>
+          <flv>GettyImages_526-71_n.flv</flv>
+          <credit><![CDATA[526-71, one80]]></credit>
+        </video>
+          <video>
+          <id>526-72</id>
+          <images>
+            <small>GettyImages_526-72_n.jpg</small>
+            <medium>GettyImages_526-72_n.jpg</medium>
+          </images>
+          <flv>GettyImages_526-72_n.flv</flv>
+          <credit><![CDATA[526-72, one80]]></credit>
+        </video>
+          <video>
+          <id>556-27</id>
+          <images>
+            <small>GettyImages_556-27_n.jpg</small>
+            <medium>GettyImages_556-27_n.jpg</medium>
+          </images>
+          <flv>GettyImages_556-27_n.flv</flv>
+          <credit><![CDATA[556-27, Image Bank Film]]></credit>
+        </video>
+          <video>
+          <id>577-34</id>
+          <images>
+            <small>GettyImages_577-34_n.jpg</small>
+            <medium>GettyImages_577-34_n.jpg</medium>
+          </images>
+          <flv>GettyImages_577-34_n.flv</flv>
+          <credit><![CDATA[577-34, one80]]></credit>
+        </video>
+          <video>
+          <id>590-154</id>
+          <images>
+            <small>GettyImages_590-154_n.jpg</small>
+            <medium>GettyImages_590-154_n.jpg</medium>
+          </images>
+          <flv>GettyImages_590-154_n1.flvv</flv>
+          <credit><![CDATA[590-154, one80]]></credit>
+        </video>
+         <video>
+          <id>595-166</id>
+          <images>
+            <small>GettyImages_595-166_n.jpg</small>
+            <medium>GettyImages_595-166_n.jpg</medium>
+          </images>
+          <flv>GettyImages_595-166_n.flv</flv>
+          <credit><![CDATA[595-166, one80]]></credit>
+        </video>
+         <video>
+          <id>601-127</id>
+          <images>
+            <small>GettyImages_601-127_n.jpg</small>
+            <medium>GettyImages_601-127_n.jpg</medium>
+          </images>
+          <flv>GettyImages_601-127_n.flv</flv>
+          <credit><![CDATA[601-127, one80]]></credit>
+        </video>
+         <video>
+          <id>607-41</id>
+          <images>
+            <small>GettyImages_607-41_n.jpg</small>
+            <medium>GettyImages_607-41_n.jpg</medium>
+          </images>
+          <flv>GettyImages_607-41_n.flv</flv>
+          <credit><![CDATA[607-41, one80]]></credit>
+        </video>
+         <video>
+          <id>642-26</id>
+          <images>
+            <small>GettyImages_642-26_n.jpg</small>
+            <medium>GettyImages_642-26_n.jpg</medium>
+          </images>
+          <flv>GettyImages_642-26_n.flv</flv>
+          <credit><![CDATA[642-26, one80]]></credit>
+        </video>
+         <video>
+          <id>656-4</id>
+          <images>
+            <small>GettyImages_656-4_n.jpg</small>
+            <medium>GettyImages_656-4_n.jpg</medium>
+          </images>
+          <flv>GettyImages_656-4_n.flv</flv>
+          <credit><![CDATA[656-4, one80]]></credit>
+        </video>
+         <video>
+          <id>657-18</id>
+          <images>
+            <small>GettyImages_657-18_n.jpg</small>
+            <medium>GettyImages_657-18_n.jpg</medium>
+          </images>
+          <flv>GettyImages_657-18_n1.flv</flv>
+          <credit><![CDATA[657-18, one80]]></credit>
+        </video>
+         <video>
+          <id>657-19</id>
+          <images>
+            <small>GettyImages_657-19_n.jpg</small>
+            <medium>GettyImages_657-19_n.jpg</medium>
+          </images>
+          <flv>GettyImages_657-19_n.flv</flv>
+          <credit><![CDATA[657-19, one80]]></credit>
+        </video>
+         <video>
+          <id>664-9</id>
+          <images>
+            <small>GettyImages_664-9_n.jpg</small>
+            <medium>GettyImages_664-9_n.jpg</medium>
+          </images>
+          <flv>GettyImages_664-9_n.flv</flv>
+          <credit><![CDATA[664-9, one80]]></credit>
+        </video>
+         <video>
+          <id>680-19</id>
+          <images>
+            <small>GettyImages_680-19_n.jpg</small>
+            <medium>GettyImages_680-19_n.jpg</medium>
+          </images>
+          <flv>GettyImages_680-19_n.flv</flv>
+          <credit><![CDATA[680-19, one80]]></credit>
+        </video>
+	<video>
+          <id>692-7</id>
+          <images>
+            <small>GettyImages_692-7_n.jpg</small>
+            <medium>GettyImages_692-7_n.jpg</medium>
+          </images>
+          <flv>GettyImages_692-7_n2.flv</flv>
+          <credit><![CDATA[692-7, one80]]></credit>
+        </video>
+        <video>
+          <id>734-60</id>
+          <images>
+            <small>GettyImages_734-60_n.jpg</small>
+            <medium>GettyImages_734-60_n.jpg</medium>
+          </images>
+          <flv>GettyImages_734-60_n.flv</flv>
+          <credit><![CDATA[734-60, one80]]></credit>
+        </video>
+          <video>
+          <id>744-52</id>
+          <images>
+            <small>GettyImages_744-52_n.jpg</small>
+            <medium>GettyImages_744-52_n.jpg</medium>
+          </images>
+          <flv>GettyImages_744-52_n.flv</flv>
+          <credit><![CDATA[744-52, one80]]></credit>
+        </video>
+          <video>
+          <id>745-117</id>
+          <images>
+            <small>GettyImages_745-117_n.jpg</small>
+            <medium>GettyImages_745-117_n.jpg</medium>
+          </images>
+          <flv>GettyImages_745-117_n1.flvv</flv>
+          <credit><![CDATA[745-117, one80]]></credit>
+        </video>
+          <video>
+          <id>747-103</id>
+          <images>
+            <small>GettyImages_747-103_n.jpg</small>
+            <medium>GettyImages_747-103_n.jpg</medium>
+          </images>
+          <flv>GettyImages_747-103_n.flv</flv>
+          <credit><![CDATA[747-103, Image Bank Film]]></credit>
+        </video>
+          <video>
+          <id>769-25</id>
+          <images>
+            <small>GettyImages_769-25_n.jpg</small>
+            <medium>GettyImages_769-25_n.jpg</medium>
+          </images>
+          <flv>GettyImages_769-25_n.flv</flv>
+          <credit><![CDATA[769-25, one80]]></credit>
+        </video>
+          <video>
+          <id>769-29</id>
+          <images>
+            <small>GettyImages_769-29_n.jpg</small>
+            <medium>GettyImages_769-29_n.jpg</medium>
+          </images>
+          <flv>GettyImages_769-29_n.flv</flv>
+          <credit><![CDATA[769-29, one80]]></credit>
+        </video>
+         <video>
+          <id>772-54</id>
+          <images>
+            <small>GettyImages_772-54_n.jpg</small>
+            <medium>GettyImages_772-54_n.jpg</medium>
+          </images>
+          <flv>GettyImages_772-54_n1.flv</flv>
+          <credit><![CDATA[772-54, one80]]></credit>
+        </video>
+         <video>
+          <id>1150-14</id>
+          <images>
+            <small>GettyImages_1150-14_n.jpg</small>
+            <medium>GettyImages_1150-14_n.jpg</medium>
+          </images>
+          <flv>GettyImages_1150-14_n.flv</flv>
+          <credit><![CDATA[1150-14, one80]]></credit>
+        </video>
+         <video>
+          <id>1219-1</id>
+          <images>
+            <small>GettyImages_1219-1_n.jpg</small>
+            <medium>GettyImages_1219-1_n.jpg</medium>
+          </images>
+          <flv>GettyImages_1219-1_n.flv</flv>
+          <credit><![CDATA[1219-1, one80]]></credit>
+        </video>
+         <video>
+          <id>1408-39</id>
+          <images>
+            <small>GettyImages_1408-39_n.jpg</small>
+            <medium>GettyImages_1408-39_n.jpg</medium>
+          </images>
+          <flv>GettyImages_1408-39_n.flv</flv>
+          <credit><![CDATA[1408-39, Image Bank Film]]></credit>
+        </video>
+         <video>
+          <id>1412-118</id>
+          <images>
+            <small>GettyImages_1412-118_n.jpg</small>
+            <medium>GettyImages_1412-118_n.jpg</medium>
+          </images>
+          <flv>GettyImages_1412-118_n.flv</flv>
+          <credit><![CDATA[1412-118, Image Bank Film]]></credit>
+        </video>
+         <video>
+          <id>83535044</id>
+          <images>
+            <small>GettyImages_83535044_n.jpg</small>
+            <medium>GettyImages_83535044_n.jpg</medium>
+          </images>
+          <flv>GettyImages_83535044_n.flv</flv>
+          <credit><![CDATA[83535044, Image Bank Film]]></credit>
+        </video>
+         <video>
+          <id>83898210</id>
+          <images>
+            <small>GettyImages_83898210_n.jpg</small>
+            <medium>GettyImages_83898210_n.jpg</medium>
+          </images>
+          <flv>GettyImages_83898210_n.flv</flv>
+          <credit><![CDATA[83898210, one80]]></credit>
+        </video>
+         <video>
+          <id>84603302</id>
+          <images>
+            <small>GettyImages_84603302_n.jpg</small>
+            <medium>GettyImages_84603302_n.jpg</medium>
+          </images>
+          <flv>GettyImages_84603302_n.flv</flv>
+          <credit><![CDATA[84603302, one80]]></credit>
+        </video>
+         <video>
+          <id>85700778</id>
+          <images>
+            <small>GettyImages_85700778_n.jpg</small>
+            <medium>GettyImages_85700778_n.jpg</medium>
+          </images>
+          <flv>GettyImages_85700778_n.flv</flv>
+          <credit><![CDATA[85700778, one80]]></credit>
+	</video>
+         <video>
+          <id>85828150</id>
+          <images>
+            <small>GettyImages_85828150_n.jpg</small>
+            <medium>GettyImages_85828150_n.jpg</medium>
+          </images>
+          <flv>GettyImages_85828150_n.flv</flv>
+          <credit><![CDATA[85828150, one80]]></credit>
+        </video>
+         <video>
+          <id>86004879</id>
+          <images>
+            <small>GettyImages_86004879_n.jpg</small>
+            <medium>GettyImages_86004879_n.jpg</medium>
+          </images>
+          <flv>GettyImages_86004879_n.flv</flv>
+          <credit><![CDATA[86004879, Image Bank Film]]></credit>
+        </video>
+         <video>
+          <id>86095155</id>
+          <images>
+            <small>GettyImages_86095155_n.jpg</small>
+            <medium>GettyImages_86095155_n.jpg</medium>
+          </images>
+          <flv>GettyImages_86095155_n.flv</flv>
+          <credit><![CDATA[86095155, one80]]></credit>
+        </video>
+         <video>
+          <id>86179648</id>
+          <images>
+            <small>GettyImages_86179648_n.jpg</small>
+            <medium>GettyImages_86179648_n.jpg</medium>
+          </images>
+          <flv>GettyImages_86179648_n.flv</flv>
+          <credit><![CDATA[86179648, Image Bank Film]]></credit>
+        </video>
+         <video>
+          <id>88501210</id>
+          <images>
+            <small>GettyImages_88501210_n.jpg</small>
+            <medium>GettyImages_88501210_n.jpg</medium>
+          </images>
+          <flv>GettyImages_88501210_n.flv</flv>
+          <credit><![CDATA[88501210, Image Bank Film]]></credit>
+        </video>
+         <video>
+          <id>88521581</id>
+          <images>
+            <small>GettyImages_88521581_n.jpg</small>
+            <medium>GettyImages_88521581_n.jpg</medium>
+          </images>
+          <flv>GettyImages_88521581_n.flv</flv>
+          <credit><![CDATA[88521581, Image Bank Film]]></credit>
+        </video>
+      </footage>
+    </who>
+
+    <what>
+      <images>
+      	<image>
+          <id>85118923</id>
+          <small>85118923_10.jpg</small>
+          <medium>85118923_10.jpg</medium>
+          <credit><![CDATA[85118923, Copyright by Fabian Gehweiler/Flickr]]></credit>
+        </image>
+        <image>
+          <id>85188075</id>
+          <small>85188075_10.jpg</small>
+          <medium>85188075_10.jpg</medium>
+          <credit><![CDATA[85188075, Runolfur/Photopop.dk/Flickr]]></credit>
+        </image>
+        <image>
+          <id>85571720</id>
+          <small>85571720_10.jpg</small>
+          <medium>85571720_10.jpg</medium>
+          <credit><![CDATA[85571720, Kaja Thrastar/Flickr]]></credit>
+        </image>
+        <image>
+          <id>85909566</id>
+          <small>85909566_5.jpg</small>
+          <medium>85909566_5.jpg</medium>
+          <credit><![CDATA[85909566, ©Image by Michael Sullivan/Flickr]]></credit>
+        </image>
+        <image>
+          <id>87139098</id>
+          <small>87139098_10.jpg</small>
+          <medium>87139098_10.jpg</medium>
+          <credit><![CDATA[87139098, Photo by PJ Taylor/Flickr]]></credit>
+        </image>
+        <image>
+          <id>85888361</id>
+          <small>85888361_7.jpg</small>
+          <medium>85888361_7.jpg</medium>
+          <credit><![CDATA[85888361, Photgraphic Ephemera by Gracie/Flickr]]></credit>
+        </image>
+        <image>
+          <id>85906866</id>
+          <small>85906866_10.jpg</small>
+          <medium>85906866_10.jpg</medium>
+          <credit><![CDATA[85906866, Hélène Desplechin/Flickr]]></credit>
+        </image>
+        <image>
+          <id>50690535</id>
+          <small>05_Archival.jpg</small>
+          <medium>05_Archival.jpg</medium>
+          <credit><![CDATA[Vassar student waiting to receive a serve at Vassar College, January 01 1937. 50690535, Alfred Eisenstaedt./Contributor/Time & Life Pictures]]></credit>
+        </image>
+          <image>
+          <id>sb10068407w-001</id>
+          <small>sb10068407w-001.jpg</small>
+          <medium>sb10068407w-001.jpg</medium>
+          <credit><![CDATA[sb10068407w-001, Mark Horn/Photonica]]></credit>
+        </image>
+        <image>
+          <id>sb10068181d-001</id>
+          <small>sb10068181d-001.jpg</small>
+          <medium>sb10068181d-001.jpg</medium>
+          <credit><![CDATA[sb10068181d-001, David Zaitz/Photographer's Choice]]></credit>
+        </image>
+        <image>
+          <id>sb10067662i-002</id>
+          <small>sb10067662i-002.jpg</small>
+          <medium>sb10067662i-002.jpg</medium>
+          <credit><![CDATA[sb10067662i-002, Donald Miralle/Allsport Concepts]]></credit>
+        </image>
+        <image>
+          <id>sb10067453v-001</id>
+          <small>sb10067453v-001.jpg</small>
+          <medium>sb10067453v-001.jpg</medium>
+          <credit><![CDATA[sb10067453v-001, Lyle Owerko/Reportage]]></credit>
+        </image>
+        <image>
+          <id>sb10067042j-001</id>
+          <small>sb10067042j-001.jpg</small>
+          <medium>sb10067042j-001.jpg</medium>
+          <credit><![CDATA[sb10067042j-001, Andy Ryan/Photonica]]></credit>
+        </image>
+          <image>
+          <id>AR5249-001</id>
+          <small>AR5249-001.jpg</small>
+          <medium>AR5249-001.jpg</medium>
+          <credit><![CDATA[AR5249-001, Alan R Moller/Stone]]></credit>
+        </image>
+        <image>
+          <id>200327703-001</id>
+          <small>200327703-001.jpg</small>
+          <medium>200327703-001.jpg</medium>
+          <credit><![CDATA[200327703-001, Martien Mulder/Stone]]></credit>
+        </image>
+        <image>
+          <id>200327663-001</id>
+          <small>200327663-001.jpg</small>
+          <medium>200327663-001.jpg</medium>
+          <credit><![CDATA[200327663-001, Martien Mulder/Stone]]></credit>
+        </image>
+        <image>
+          <id>200067531-001</id>
+          <small>200067531-001.jpg</small>
+          <medium>200067531-001.jpg</medium>
+          <credit><![CDATA[200067531-001, John Midgley/Stone+]]></credit>
+        </image>
+        <image>
+          <id>86346649</id>
+          <small>86346649.jpg</small>
+          <medium>86346649.jpg</medium>
+          <credit><![CDATA[86346649, Long exposure photographs, straight out of the camera/Flickr]]></credit>
+        </image>
+        <image>
+          <id>86271037</id>
+          <small>86271037.jpg</small>
+          <medium>86271037.jpg</medium>
+          <credit><![CDATA[86271037, Giles Breton/Flickr]]></credit>
+        </image>
+        <image>
+          <id>85967445</id>
+          <small>85967445.jpg</small>
+          <medium>85967445.jpg</medium>
+          <credit><![CDATA[85967445, www.boelke-art.de/Flickr]]></credit>
+        </image>
+        <image>
+          <id>85920971</id>
+          <small>85920971.jpg</small>
+          <medium>85920971.jpg</medium>
+          <credit><![CDATA[85920971, Ernest McLeod/Flickr]]></credit>
+        </image>
+        <image>
+          <id>85781580</id>
+          <small>85781580.jpg</small>
+          <medium>85781580.jpg</medium>
+          <credit><![CDATA[85781580, Vilhjalmur Ingi Vilhjalmsson/Flickr]]></credit>
+        </image>
+        <image>
+          <id>85745995</id>
+          <small>85745995.jpg</small>
+          <medium>85745995.jpg</medium>
+          <credit><![CDATA[85745995, Zack Seckler/Photonica]]></credit>
+        </image>
+        <image>
+          <id>85540283</id>
+          <small>85540283.jpg</small>
+          <medium>85540283.jpg</medium>
+          <credit><![CDATA[85540283, John Paul Armstrong/Flickr]]></credit>
+        </image>
+        <image>
+          <id>85460263</id>
+          <small>85460263.jpg</small>
+          <medium>85460263.jpg</medium>
+          <credit><![CDATA[85460263, Anton Hazewinkel/Flickr]]></credit>
+        </image>
+        <image>
+          <id>85426229</id>
+          <small>85426229.jpg</small>
+          <medium>85426229.jpg</medium>
+          <credit><![CDATA[85426229, H.Noritake/Flickr]]></credit>
+        </image>
+        <image>
+          <id>85279975</id>
+          <small>85279975.jpg</small>
+          <medium>85279975.jpg</medium>
+          <credit><![CDATA[85279975, LaCoppola-Meier/Photonica]]></credit>
+        </image>
+        <image>
+          <id>85202162</id>
+          <small>85202162.jpg</small>
+          <medium>85202162.jpg</medium>
+          <credit><![CDATA[85202162, Ellen van Bodegom/Flickr]]></credit>
+        </image>
+         <image>
+          <id>85155168</id>
+          <small>85155168.jpg</small>
+          <medium>85155168.jpg</medium>
+          <credit><![CDATA[85155168, Erin Butler/Flickr]]></credit>
+        </image>
+        <image>
+          <id>85152589</id>
+          <small>85152589.jpg</small>
+          <medium>85152589.jpg</medium>
+          <credit><![CDATA[85152589, ©2008 gcomollo.com/Flickr]]></credit>
+        </image>
+        <image>
+          <id>85138096</id>
+          <small>85138096.jpg</small>
+          <medium>85138096.jpg</medium>
+          <credit><![CDATA[85138096, Photograph by Brian Vetter/Flickr]]></credit>
+        </image>
+        <image>
+          <id>85134762</id>
+          <small>85134762.jpg</small>
+          <medium>85134762.jpg</medium>
+          <credit><![CDATA[85134762, @Niladri Nath/Flickr]]></credit>
+        </image>
+        <image>
+          <id>84499293</id>
+          <small>84499293.jpg</small>
+          <medium>84499293.jpg</medium>
+          <credit><![CDATA[84499293, Tom Fowlks/Photonica]]></credit>
+        </image>
+        <image>
+          <id>84297950</id>
+          <small>84297950.jpg</small>
+          <medium>84297950.jpg</medium>
+          <credit><![CDATA[84297950, Todd Gipstein/National Geographic]]></credit>
+        </image>
+        <image>
+          <id>83773721</id>
+          <small>83773721.jpg</small>
+          <medium>83773721.jpg</medium>
+          <credit><![CDATA[83773721, Matthew Murray/Reportage]]></credit>
+        </image>
+        <image>
+          <id>83349587</id>
+          <small>83349587.jpg</small>
+          <medium>83349587.jpg</medium>
+          <credit><![CDATA[83349587, Michael Hall/Photonica]]></credit>
+        </image>
+        <image>
+          <id>83091256</id>
+          <small>83091256.jpg</small>
+          <medium>83091256.jpg</medium>
+          <credit><![CDATA[83091256, Popperfoto/Popperfoto]]></credit>
+        </image>
+        <image>
+          <id>73739928</id>
+          <small>73739928.jpg</small>
+          <medium>73739928.jpg</medium>
+          <credit><![CDATA[73739928, Car Culture/Collection Mix: Subjects]]></credit>
+        </image>
+          <image>
+          <id>73126567</id>
+          <small>73126567.jpg</small>
+          <medium>73126567.jpg</medium>
+          <credit><![CDATA[73126567, Hola Images/Hola Images]]></credit>
+        </image>
+        <image>
+          <id>72664519</id>
+          <small>72664519.jpg</small>
+          <medium>72664519.jpg</medium>
+          <credit><![CDATA[72664519, Martin Diebel/fStop]]></credit>
+        </image>
+        <image>
+          <id>56093563</id>
+          <small>56093563.jpg</small>
+          <medium>56093563.jpg</medium>
+          <credit><![CDATA[56093563, Isabelle Rozenbaum/PhotoAlto Agency RF Collections]]></credit>
+        </image>
+        <image>
+          <id>6544-000818</id>
+          <small>6544-000818.jpg</small>
+          <medium>6544-000818.jpg</medium>
+          <credit><![CDATA[6544-000818, Silvia Otte/Photonica]]></credit>
+        </image>
+        <image>
+          <id>6404-000011</id>
+          <small>6404-000011.jpg</small>
+          <medium>6404-000011.jpg</medium>
+          <credit><![CDATA[6404-000011, Phyllis Uitti-Maslin/Photonica]]></credit>
+        </image>
+        <image>
+          <id>3471-000058</id>
+          <small>3471-000058.jpg</small>
+          <medium>3471-000058.jpg</medium>
+          <credit><![CDATA[3471-000058, Stephen Smith/Photonica]]></credit>
+        </image>
+        <image>
+          <id>200537961-005</id>
+          <small>200537961-005.jpg</small>
+          <medium>200537961-005.jpg</medium>
+          <credit><![CDATA[200537961-005, Ryan McVay/Stone+]]></credit>
+        </image>
+         <image>
+          <id>85728351</id>
+          <small>85728351_7.jpg</small>
+          <medium>85728351_7.jpg</medium>
+          <credit><![CDATA[85728351, Great Salt Lake Landscapes & More/Flickr]]></credit>
+        </image>
+        <image>
+          <id>85177931</id>
+          <small>85177931_10.jpg</small>
+          <medium>85177931_10.jpg</medium>
+          <credit><![CDATA[85177931, David/Flickr]]></credit>
+        </image>
+        <image>
+          <id>3003-013312</id>
+          <small>3003-013312.jpg</small>
+          <medium>3003-013312.jpg</medium>
+          <credit><![CDATA[3003-013312, Johner/Johner Images]]></credit>
+        </image>
+        <image>
+          <id>3701-008456</id>
+          <small>3701-008456.jpg</small>
+          <medium>3701-008456.jpg</medium>
+          <credit><![CDATA[3701-008456, VEER Marie Hickman/Photonica]]></credit>
+        </image>
+        <image>
+          <id>6124-000447</id>
+          <small>6124-000447.jpg</small>
+          <medium>6124-000447.jpg</medium>
+          <credit><![CDATA[6124-000447, Arthur Tress/Photonica]]></credit>
+        </image>
+        <image>
+          <id>6557-000011</id>
+          <small>6557-000011.jpg</small>
+          <medium>6557-000011.jpg</medium>
+          <credit><![CDATA[6557-000011, Jason Todd/Photonica]]></credit>
+        </image>
+        <image>
+          <id>10186284</id>
+          <small>10186284.jpg</small>
+          <medium>10186284.jpg</medium>
+          <credit><![CDATA[10186284, Carlos Casariego/Stone]]></credit>
+        </image>
+        <image>
+          <id>82982486</id>
+          <small>82982486.jpg</small>
+          <medium>82982486.jpg</medium>
+          <credit><![CDATA[82982486, Tsuneo Yamashita/Taxi Japan]]></credit>
+        </image>
+        <image>
+          <id>85153011</id>
+          <small>85153011.jpg</small>
+          <medium>85153011.jpg</medium>
+          <credit><![CDATA[85153011, A DragonDrop Adventure/Flickr]]></credit>
+        </image>
+        <image>
+          <id>85321603</id>
+          <small>85321603.jpg</small>
+          <medium>85321603.jpg</medium>
+          <credit><![CDATA[85321603, Julia Fredenburg/Flickr]]></credit>
+        </image>
+        <image>
+          <id>85465757</id>
+          <small>85465757.jpg</small>
+          <medium>85465757.jpg</medium>
+          <credit><![CDATA[85465757, Eddy Joaquim/Flickr]]></credit>
+        </image>
+        <image>
+          <id>85475780</id>
+          <small>85475780.jpg</small>
+          <medium>85475780.jpg</medium>
+          <credit><![CDATA[85475780, Edward Olive/Flickr]]></credit>
+        </image>
+        <image>
+          <id>85570149</id>
+          <small>85570149.jpg</small>
+          <medium>85570149.jpg</medium>
+          <credit><![CDATA[85570149, joaniemary/Flickr]]></credit>
+        </image>
+        <image>
+          <id>85739880</id>
+          <small>85739880.jpg</small>
+          <medium>85739880.jpg</medium>
+          <credit><![CDATA[85739880, Craig Richardson Photography/Flickr]]></credit>
+        </image>
+        <image>
+          <id>85900922</id>
+          <small>85900922.jpg</small>
+          <medium>85900922.jpg</medium>
+          <credit><![CDATA[85900922, Barbara Fischer/Flickr]]></credit>
+        </image>
+        <image>
+          <id>85982767</id>
+          <small>85982767.jpg</small>
+          <medium>85982767.jpg</medium>
+          <credit><![CDATA[85982767, danielkrieger.com/Flickr]]></credit>
+        </image>
+        <image>
+          <id>86177318</id>
+          <small>86177318.jpg</small>
+          <medium>86177318.jpg</medium>
+          <credit><![CDATA[86177318, Elin Arai/Flickr]]></credit>
+        </image>
+        <image>
+          <id>86292444</id>
+          <small>86292444.jpg</small>
+          <medium>86292444.jpg</medium>
+          <credit><![CDATA[86292444, Lesley Magno/Flickr]]></credit>
+        </image>
+        <image>
+          <id>86347403</id>
+          <small>86347403.jpg</small>
+          <medium>86347403.jpg</medium>
+          <credit><![CDATA[86347403, Sofia Berakha/Flickr]]></credit>
+        </image>
+         <image>
+          <id>86362574</id>
+          <small>86362574.jpg</small>
+          <medium>86362574.jpg</medium>
+          <credit><![CDATA[86362574, Michael Chrisman/Flickr]]></credit>
+        </image>
+        <image>
+          <id>86473271</id>
+          <small>86473271.jpg</small>
+          <medium>86473271.jpg</medium>
+          <credit><![CDATA[86362574, Michael Chrisman/Flickr]]></credit>
+        </image>
+        <image>
+          <id>87238341</id>
+          <small>87238341.jpg</small>
+          <medium>87238341.jpg</medium>
+          <credit><![CDATA[87238341, Richard Beck/Flickr]]></credit>
+        </image>
+        <image>
+          <id>87240224</id>
+          <small>87240224.jpg</small>
+          <medium>87240224.jpg</medium>
+          <credit><![CDATA[87240224, Mohamed Abdulla Shafeeg/Flickr]]></credit>
+        </image>
+        <image>
+          <id>87754889</id>
+          <small>87754889.jpg</small>
+          <medium>87754889.jpg</medium>
+          <credit><![CDATA[87754889, www.cristobalmarambio.com/Flickr Select]]></credit>
+        </image>
+          <image>
+          <id>87841480</id>
+          <small>87841480.jpg</small>
+          <medium>87841480.jpg</medium>
+          <credit><![CDATA[87841480, simon's photo/Flickr]]></credit>
+        </image>
+        <image>
+          <id>87842279</id>
+          <small>87842279.jpg</small>
+          <medium>87842279.jpg</medium>
+          <credit><![CDATA[87842279, Mitsuko Nagone/Flickr]]></credit>
+        </image>
+        <image>
+          <id>87884781</id>
+          <small>87884781.jpg</small>
+          <medium>87884781.jpg</medium>
+          <credit><![CDATA[87884781, Mitsuko Nagone/Flickr]]></credit>
+        </image>
+        <image>
+          <id>87913786</id>
+          <small>87913786.jpg</small>
+          <medium>87913786.jpg</medium>
+          <credit><![CDATA[87913786, Scott C. Riether/Flickr]]></credit>
+        </image>
+        <image>
+          <id>87915922</id>
+          <small>87915922.jpg</small>
+          <medium>87915922.jpg</medium>
+          <credit><![CDATA[87915922, Michelle Devall/Flickr]]></credit>
+        </image>
+         <image>
+          <id>87988862</id>
+          <small>87988862.jpg</small>
+          <medium>87988862.jpg</medium>
+          <credit><![CDATA[87988862, EKM Goh/Flickr]]></credit>
+        </image>
+        <image>
+          <id>88088900</id>
+          <small>88088900.jpg</small>
+          <medium>88088900.jpg</medium>
+          <credit><![CDATA[88088900, Blanca Vi?as Alcoz/Flickr]]></credit>
+        </image>
+          <image>
+          <id>88112343</id>
+          <small>88112343.jpg</small>
+          <medium>88112343.jpg</medium>
+          <credit><![CDATA[88112343, Grant Hamilton/Flickr]]></credit>
+        </image>
+        <image>
+          <id>88183825</id>
+          <small>88183825.jpg</small>
+          <medium>88183825.jpg</medium>
+          <credit><![CDATA[87842279, Mitsuko Nagone/Flickr]]></credit>
+        </image>
+        <image>
+          <id>88199171</id>
+          <small>88199171.jpg</small>
+          <medium>88199171.jpg</medium>
+          <credit><![CDATA[88199171, Son Gallery - Wilson Lee/Flickr]]></credit>
+        </image>
+        <image>
+          <id>88199746</id>
+          <small>88199746.jpg</small>
+          <medium>88199746.jpg</medium>
+          <credit><![CDATA[88199746, Gustaf Eriksson/Flickr]]></credit>
+        </image>
+        <image>
+          <id>88509371</id>
+          <small>88509371.jpg</small>
+          <medium>88509371.jpg</medium>
+          <credit><![CDATA[88509371, Lost America Night Photography/Flickr Select]]></credit>
+        </image>
+        <image>
+          <id>88510006</id>
+          <small>88510006.jpg</small>
+          <medium>88510006.jpg</medium>
+          <credit><![CDATA[88510006, Celeste B. Pascual/Flickr]]></credit>
+        </image>
+        <image>
+          <id>88511113</id>
+          <small>88511113.jpg</small>
+          <medium>88511113.jpg</medium>
+          <credit><![CDATA[88511113, ilarialucianiphotos/Flickr]]></credit>
+        </image>
+         <image>
+          <id>88573633</id>
+          <small>88573633.jpg</small>
+          <medium>88573633.jpg</medium>
+          <credit><![CDATA[88573633, Maya Shleifer/Flickr]]></credit>
+        </image>
+        <image>
+          <id>88576189</id>
+          <small>88576189.jpg</small>
+          <medium>88576189.jpg</medium>
+          <credit><![CDATA[88576189, Dracorubio Images/Flickr]]></credit>
+        </image>
+          <image>
+          <id>200483497-001</id>
+          <small>200483497-001.jpg</small>
+          <medium>200483497-001.jpg</medium>
+          <credit><![CDATA[200483497-001, Jonathan Kantor/Taxi]]></credit>
+        </image>
+        <image>
+          <id>200514465-001</id>
+          <small>200514465-001.jpg</small>
+          <medium>200514465-001.jpg</medium>
+          <credit><![CDATA[200514465-001, Henry Horenstein/Stone]]></credit>
+        </image>
+        <image>
+          <id>200567295-001</id>
+          <small>200567295-001.jpg</small>
+          <medium>200567295-001.jpg</medium>
+          <credit><![CDATA[200567295-001, Annie Collinge/Stone+]]></credit>
+        </image>
+        <image>
+          <id>AN3079-001</id>
+          <small>AN3079-001.jpg</small>
+          <medium>AN3079-001.jpg</medium>
+          <credit><![CDATA[AN3079-001, Bryan Mullennix/Stone]]></credit>
+        </image>
+        <image>
+          <id>AV1631-001</id>
+          <small>AV1631-001.jpg</small>
+          <medium>AV1631-001.jpg</medium>
+          <credit><![CDATA[AV1631-001, Jeffrey Braverman/Stone+]]></credit>
+        </image>
+        <image>
+          <id>BC4894-001</id>
+          <small>BC4894-001.jpg</small>
+          <medium>BC4894-001.jpg</medium>
+          <credit><![CDATA[BC4894-001, Jason Hawkes/Stone]]></credit>
+        </image>
+        <image>
+          <id>CA20873</id>
+          <small>CA20873.jpg</small>
+          <medium>CA20873.jpg</medium>
+          <credit><![CDATA[CA20873, David Sacks/Taxi]]></credit>
+        </image>
+        <image>
+          <id>CA32127</id>
+          <small>CA32127.jpg</small>
+          <medium>CA32127.jpg</medium>
+          <credit><![CDATA[CA32127, Shannon Fagan/Taxi]]></credit>
+        </image>
+        <image>
+          <id>sb10063961e-001</id>
+          <small>sb10063961e-001.jpg</small>
+          <medium>sb10063961e-001.jpg</medium>
+          <credit><![CDATA[sb10063961e-001, Toledano/Stone+]]></credit>
+        </image>
+        <image>
+          <id>sb10064868b-001</id>
+          <small>sb10064868b-001.jpg</small>
+          <medium>sb10064868b-001.jpg</medium>
+          <credit><![CDATA[sb10064868b-001, Dwight Eschliman/Stone]]></credit>
+        </image>
+        <image>
+          <id>sb10067822f-001</id>
+          <small>sb10067822f-001.jpg</small>
+          <medium>sb10067822f-001.jpg</medium>
+          <credit><![CDATA[sb10067822f-001, EIGHTFISH/Stone]]></credit>
+        </image>
+	 </images>
+      <footage>
+        <video>
+          <id>736-1</id>
+          <images>
+            <small>GettyImages_736-1.jpg</small>
+            <medium>GettyImages_736-1.jpg</medium>
+          </images>
+          <flv>GettyImages_736-1_C.flv</flv>
+          <credit><![CDATA[736-1, one80]]></credit>
+        </video>
+        <video>
+          <id>810-73</id>
+          <images>
+            <small>GettyImages_810-73.jpg</small>
+            <medium>GettyImages_810-73.jpg</medium>
+          </images>
+          <flv>GettyImages_810-73_n.flv</flv>
+          <credit><![CDATA[810-73, Image Bank Film]]></credit>
+        </video>
+          <video>
+          <id>871-61</id>
+          <images>
+            <small>GettyImages_871-61.jpg</small>
+            <medium>GettyImages_871-61.jpg</medium>
+          </images>
+          <flv>GettyImages_871-61_n.flv</flv>
+          <credit><![CDATA[871-61, ApexStock]]></credit>
+        </video>
+          <video>
+          <id>874-23</id>
+          <images>
+            <small>GettyImages_874-23.jpg</small>
+            <medium>GettyImages_874-23.jpg</medium>
+          </images>
+          <flv>GettyImages_874-23_n.flv</flv>
+          <credit><![CDATA[874-23, ApexStock]]></credit>
+        </video>
+          <video>
+          <id>886-26</id>
+          <images>
+            <small>GettyImages_886-26.jpg</small>
+            <medium>GettyImages_886-26.jpg</medium>
+          </images>
+          <flv>GettyImages_886-26_n1.flv</flv>
+          <credit><![CDATA[886-26, Image Bank Film]]></credit>
+        </video>
+          <video>
+          <id>887-76</id>
+          <images>
+            <small>GettyImages_887-76.jpg</small>
+            <medium>GettyImages_887-76.jpg</medium>
+          </images>
+          <flv>GettyImages_887-76_C.flv</flv>
+          <credit><![CDATA[887-76, one80]]></credit>
+        </video>
+          <video>
+          <id>1185-52</id>
+          <images>
+            <small>GettyImages_1185-52.jpg</small>
+            <medium>GettyImages_1185-52.jpg</medium>
+          </images>
+          <flv>GettyImages_1185-52_2.flv</flv>
+          <credit><![CDATA[1185-52, Universal Studios]]></credit>
+        </video>
+         <video>
+          <id>1372-33</id>
+          <images>
+            <small>GettyImages_1372-33.jpg</small>
+            <medium>GettyImages_1372-33.jpg</medium>
+          </images>
+          <flv>GettyImages_1372-33_n.flv</flv>
+          <credit><![CDATA[1372-33, Image Bank Film]]></credit>
+        </video>
+         <video>
+          <id>81019669</id>
+          <images>
+            <small>GettyImages_81019669.jpg</small>
+            <medium>GettyImages_81019669.jpg</medium>
+          </images>
+          <flv>GettyImages_81019669_C.flv</flv>
+          <credit><![CDATA[81019669, Discovery FootageSource]]></credit>
+        </video>
+         <video>
+          <id>81157323</id>
+          <images>
+            <small>GettyImages_81157323.jpg</small>
+            <medium>GettyImages_81157323.jpg</medium>
+          </images>
+          <flv>GettyImages_81157323_C.flv</flv>
+          <credit><![CDATA[81157323, one80]]></credit>
+        </video>
+         <video>
+          <id>81477835</id>
+          <images>
+            <small>GettyImages_81477835.jpg</small>
+            <medium>GettyImages_81477835.jpg</medium>
+          </images>
+          <flv>GettyImages_81477835_n.flv</flv>
+          <credit><![CDATA[81477835, Art Wolfe Travels to the Edge]]></credit>
+        </video>
+         <video>
+          <id>81618256</id>
+          <images>
+            <small>GettyImages_81618256.jpg</small>
+            <medium>GettyImages_81618256.jpg</medium>
+          </images>
+          <flv>GettyImages_81618256_n.flv</flv>
+          <credit><![CDATA[81618256, Art Wolfe Travels to the Edge]]></credit>
+        </video>
+         <video>
+          <id>82766374</id>
+          <images>
+            <small>GettyImages_82766374.jpg</small>
+            <medium>GettyImages_82766374.jpg</medium>
+          </images>
+          <flv>GettyImages_82766374_n.flv</flv>
+          <credit><![CDATA[82766374, one80]]></credit>
+        </video>
+         <video>
+          <id>82794065</id>
+          <images>
+            <small>GettyImages_82794065.jpg</small>
+            <medium>GettyImages_82794065.jpg</medium>
+          </images>
+          <flv>GettyImages_82794065_B.flv</flv>
+          <credit><![CDATA[82794065, one80]]></credit>
+        </video>
+         <video>
+          <id>84001481</id>
+          <images>
+            <small>GettyImages_84001481.jpg</small>
+            <medium>GettyImages_84001481.jpg</medium>
+          </images>
+          <flv>GettyImages_84001481_n.flv</flv>
+          <credit><![CDATA[84001481, one80]]></credit>
+        </video>
+         <video>
+          <id>85084228</id>
+          <images>
+            <small>GettyImages_85084228.jpg</small>
+            <medium>GettyImages_85084228.jpg</medium>
+          </images>
+          <flv>GettyImages_85084228_n.flv</flv>
+          <credit><![CDATA[85084228, one80]]></credit>
+        </video>
+        <video>
+          <id>220-15</id>
+          <images>
+            <small>GettyImages_220-15_n.jpg</small>
+            <medium>GettyImages_220-15_n.jpg</medium>
+          </images>
+          <flv>GettyImages_220-15_n1.flv</flv>
+          <credit><![CDATA[220-15, one80]]></credit>
+        </video>
+        <video>
+          <id>320-30</id>
+          <images>
+            <small>GettyImages_320-30_n.jpg</small>
+            <medium>GettyImages_320-30_n.jpg</medium>
+          </images>
+          <flv>GettyImages_320-30_n.flv</flv>
+          <credit><![CDATA[320-30, Image Bank Film]]></credit>
+        </video>
+          <video>
+          <id>324-63</id>
+          <images>
+            <small>GettyImages_324-63_n.jpg</small>
+            <medium>GettyImages_324-63_n..jpg</medium>
+          </images>
+          <flv>GettyImages_324-63_n.flv</flv>
+          <credit><![CDATA[324-63, one80]]></credit>
+        </video>
+          <video>
+          <id>494-14</id>
+          <images>
+            <small>GettyImages_494-14_n.jpg</small>
+            <medium>GettyImages_494-14_n.jpg</medium>
+          </images>
+          <flv>GettyImages_494-14_n.flv</flv>
+          <credit><![CDATA[494-14, one80]]></credit>
+        </video>
+          <video>
+          <id>526-111</id>
+          <images>
+            <small>GettyImages_526-111_n.jpg</small>
+            <medium>GettyImages_526-111_n.jpg</medium>
+          </images>
+          <flv>GettyImages_526-111_n.flv</flv>
+          <credit><![CDATA[526-111, one80]]></credit>
+        </video>
+          <video>
+          <id>526-121</id>
+          <images>
+            <small>GettyImages_526-121_n.jpg</small>
+            <medium>GettyImages_526-121_n.jpg</medium>
+          </images>
+          <flv>GettyImages_526-121_n.flv</flv>
+          <credit><![CDATA[526-121, one80]]></credit>
+        </video>
+          <video>
+          <id>570-81</id>
+          <images>
+            <small>GettyImages_570-81_n.jpg</small>
+            <medium>GettyImages_570-81_n.jpg</medium>
+          </images>
+          <flv>GettyImages_570-81_n1.flv</flv>
+          <credit><![CDATA[570-81, one80]]></credit>
+        </video>
+         <video>
+          <id>607-42</id>
+          <images>
+            <small>GettyImages_607-42_n.jpg</small>
+            <medium>GettyImages_607-42_n.jpg</medium>
+          </images>
+          <flv>GettyImages_607-42_n1.flv</flv>
+          <credit><![CDATA[607-42, one80]]></credit>
+        </video>
+         <video>
+          <id>639-74</id>
+          <images>
+            <small>GettyImages_639-74_n.jpg</small>
+            <medium>GettyImages_639-74_n.jpg</medium>
+          </images>
+          <flv>GettyImages_639-74_n.flv</flv>
+          <credit><![CDATA[639-74, Image Bank Film]]></credit>
+        </video>
+         <video>
+          <id>656-52</id>
+          <images>
+            <small>GettyImages_656-52_n.jpg</small>
+            <medium>GettyImages_656-52_n.jpg</medium>
+          </images>
+          <flv>GettyImages_656-52_n.flv</flv>
+          <credit><![CDATA[656-52, one80]]></credit>
+        </video>
+         <video>
+          <id>657-5</id>
+          <images>
+            <small>GettyImages_657-5_n.jpg</small>
+            <medium>GettyImages_657-5_n.jpg</medium>
+          </images>
+          <flv>GettyImages_657-5_n.flv</flv>
+          <credit><![CDATA[657-5, one80]]></credit>
+        </video>
+         <video>
+          <id>658-11</id>
+          <images>
+            <small>GettyImages_658-11_n.jpg</small>
+            <medium>GettyImages_658-11_n.jpg</medium>
+          </images>
+          <flv>GettyImages_658-11_n.flv</flv>
+          <credit><![CDATA[658-11, one80]]></credit>
+        </video>
+         <video>
+          <id>664-7</id>
+          <images>
+            <small>GettyImages_664-7_n.jpg</small>
+            <medium>GettyImages_664-7_n.jpg</medium>
+          </images>
+          <flv>GettyImages_664-7_n.flv</flv>
+          <credit><![CDATA[664-7, one80]]></credit>
+        </video>
+         <video>
+          <id>666-30</id>
+          <images>
+            <small>GettyImages_666-30_n.jpg</small>
+            <medium>GettyImages_666-30_n.jpg</medium>
+          </images>
+          <flv>GettyImages_666-30_n.flv</flv>
+          <credit><![CDATA[666-30, one80]]></credit>
+        </video>
+         <video>
+          <id>666-54</id>
+          <images>
+            <small>GettyImages_666-54_n.jpg</small>
+            <medium>GettyImages_666-54_n.jpg</medium>
+          </images>
+          <flv>GettyImages_666-54_n.flv</flv>
+          <credit><![CDATA[666-54, one80]]></credit>
+        </video>
+         <video>
+          <id>680-84</id>
+          <images>
+            <small>GettyImages_680-84_n.jpg</small>
+            <medium>GettyImages_680-84_n.jpg</medium>
+          </images>
+          <flv>GettyImages_680-84_n.flv</flv>
+          <credit><![CDATA[680-84, one80]]></credit>
+        </video>
+	<video>
+          <id>706-34</id>
+          <images>
+            <small>GettyImages_706-34_n.jpg</small>
+            <medium>GettyImages_706-34_n.jpg</medium>
+          </images>
+          <flv>GettyImages_706-34_n.flv</flv>
+          <credit><![CDATA[706-34, Image Bank Film]]></credit>
+        </video>
+        <video>
+          <id>708-121</id>
+          <images>
+            <small>GettyImages_708-121_n.jpg</small>
+            <medium>GettyImages_708-121_n.jpg</medium>
+          </images>
+          <flv>GettyImages_708-121_n.flv</flv>
+          <credit><![CDATA[708-121, one80]]></credit>
+        </video>
+          <video>
+          <id>744-31</id>
+          <images>
+            <small>GettyImages_744-31_n.jpg</small>
+            <medium>GettyImages_744-31_n.jpg</medium>
+          </images>
+          <flv>GettyImages_744-31_n.flv</flv>
+          <credit><![CDATA[744-31, one80]]></credit>
+        </video>
+          <video>
+          <id>764-107</id>
+          <images>
+            <small>GettyImages_764-107_n.jpg</small>
+            <medium>GettyImages_764-107_n.jpg</medium>
+          </images>
+          <flv>GettyImages_764-107_n.flv</flv>
+          <credit><![CDATA[764-107, one80]]></credit>
+        </video>
+          <video>
+          <id>796-61</id>
+          <images>
+            <small>GettyImages_796-61_n.jpg</small>
+            <medium>GettyImages_796-61_n.jpg</medium>
+          </images>
+          <flv>GettyImages_796-61_n.flv</flv>
+          <credit><![CDATA[796-61, Universal Studios]]></credit>
+        </video>
+          <video>
+          <id>846-47</id>
+          <images>
+            <small>GettyImages_846-47_n.jpg</small>
+            <medium>GettyImages_846-47_n.jpg</medium>
+          </images>
+          <flv>GettyImages_846-47_n.flv</flv>
+          <credit><![CDATA[846-47, one80]]></credit>
+        </video>
+          <video>
+          <id>874-17</id>
+          <images>
+            <small>GettyImages_874-17_n.jpg</small>
+            <medium>GettyImages_874-17_n.jpg</medium>
+          </images>
+          <flv>GettyImages_874-17_n.flv</flv>
+          <credit><![CDATA[874-17, Apexstock]]></credit>
+        </video>
+         <video>
+          <id>1325-104</id>
+          <images>
+            <small>GettyImages_1325-104_n.jpg</small>
+            <medium>GettyImages_1325-104_n.jpg</medium>
+          </images>
+          <flv>GettyImages_1325-104_n.flv</flv>
+          <credit><![CDATA[1325-104, Discovery FootageSource]]></credit>
+        </video>
+         <video>
+          <id>1374-42</id>
+          <images>
+            <small>GettyImages_1374-42_n.jpg</small>
+            <medium>GettyImages_1374-42_n.jpg</medium>
+          </images>
+          <flv>GettyImages_1374-42_n.flv</flv>
+          <credit><![CDATA[1374-42, Art Wolfe Travels to the Edge]]></credit>
+        </video>
+         <video>
+          <id>80462189</id>
+          <images>
+            <small>GettyImages_80462189_n.jpg</small>
+            <medium>GettyImages_80462189_n.jpg</medium>
+          </images>
+          <flv>GettyImages_80462189_n.flv</flv>
+          <credit><![CDATA[80462189, Art Wolfe Travels to the Edge]]></credit>
+        </video>
+         <video>
+          <id>81157307</id>
+          <images>
+            <small>GettyImages_81157307_n.jpg</small>
+            <medium>GettyImages_81157307_n.jpg</medium>
+          </images>
+          <flv>GettyImages_81157307_n.flv</flv>
+          <credit><![CDATA[81157307, one80]]></credit>
+        </video>
+         <video>
+          <id>82463836</id>
+          <images>
+            <small>GettyImages_82463836_n.jpg</small>
+            <medium>GettyImages_82463836_n.jpg</medium>
+          </images>
+          <flv>GettyImages_82463836_n1.flv</flv>
+          <credit><![CDATA[82463836, Universal Studios]]></credit>
+        </video>
+         <video>
+          <id>84282355</id>
+          <images>
+            <small>GettyImages_84282355_n.jpg</small>
+            <medium>GettyImages_84282355_n.jpg</medium>
+          </images>
+          <flv>GettyImages_84282355_n.flv</flv>
+          <credit><![CDATA[84282355, one80]]></credit>
+        </video>
+         <video>
+          <id>84536716</id>
+          <images>
+            <small>GettyImages_84536716_n.jpg</small>
+            <medium>GettyImages_84536716_n.jpg</medium>
+          </images>
+          <flv>GettyImages_84536716_n.flv</flv>
+          <credit><![CDATA[84536716, Image Bank Film]]></credit>
+        </video>
+         <video>
+          <id>85084194</id>
+          <images>
+            <small>GettyImages_85084194_n.jpg</small>
+            <medium>GettyImages_85084194_n.jpg</medium>
+          </images>
+          <flv>GettyImages_85084194_n.flv</flv>
+          <credit><![CDATA[85084194, Image Bank Film]]></credit>
+        </video>
+         <video>
+          <id>85084246</id>
+          <images>
+            <small>GettyImages_85084246_n.jpg</small>
+            <medium>GettyImages_85084246_n.jpg</medium>
+          </images>
+          <flv>GettyImages_85084246_n.flv</flv>
+          <credit><![CDATA[85084246, one80]]></credit>
+        </video>
+	<video>
+          <id>85131914</id>
+          <images>
+            <small>GettyImages_85131914_n.jpg</small>
+            <medium>GettyImages_85131914_n.jpg</medium>
+          </images>
+          <flv>GettyImages_85131914_n.flv</flv>
+          <credit><![CDATA[85131914, Image Bank Film]]></credit>
+        </video>
+        <video>
+          <id>85531576</id>
+          <images>
+            <small>GettyImages_85531576_n.jpg</small>
+            <medium>GettyImages_85531576_n.jpg</medium>
+          </images>
+          <flv>GettyImages_85531576_n.flv</flv>
+          <credit><![CDATA[85531576, one80]]></credit>
+        </video>
+          <video>
+          <id>85667419</id>
+          <images>
+            <small>GettyImages_85667419_n.jpg</small>
+            <medium>GettyImages_85667419_n.jpg</medium>
+          </images>
+          <flv>GettyImages_85667419_n.flv</flv>
+          <credit><![CDATA[85667419, one80]]></credit>
+        </video>
+          <video>
+          <id>87919877</id>
+          <images>
+            <small>GettyImages_87919877_n.jpg</small>
+            <medium>GettyImages_87919877_n.jpg</medium>
+          </images>
+          <flv>GettyImages_87919877_n.flv</flv>
+          <credit><![CDATA[87919877, Image Bank Film]]></credit>
+        </video>
+          <video>
+          <id>88188623</id>
+          <images>
+            <small>GettyImages_88188623_n.jpg</small>
+            <medium>GettyImages_88188623_n.jpg</medium>
+          </images>
+          <flv>GettyImages_88188623_n.flv</flv>
+          <credit><![CDATA[88188623, Image Bank Film]]></credit>
+        </video>
+          <video>
+          <id>mr_00017017</id>
+          <images>
+            <small>GettyImages_mr_00017017_n.jpg</small>
+            <medium>GettyImages_mr_00017017_n.jpg</medium>
+          </images>
+          <flv>GettyImages_mr_00017017_n.flv</flv>
+          <credit><![CDATA[mr_00017017, Archive Films]]></credit>
+        </video>
+      </footage>
+    </what>
+
+    <where>
+      <images>
+      	<image>
+          <id>85284694</id>
+          <small>85284694_10.jpg</small>
+          <medium>85284694_10.jpg</medium>
+          <credit><![CDATA[85284694, Amanda Cooper Images/Flickr]]></credit>
+        </image>
+        <image>
+          <id>86271016</id>
+          <small>86271016_10.jpg</small>
+          <medium>86271016_10.jpg</medium>
+          <credit><![CDATA[86271016, Giles Breton/Flickr]]></credit>
+        </image>
+        <image>
+          <id>85967469</id>
+          <small>85967469_11.jpg</small>
+          <medium>85967469_11.jpg</medium>
+          <credit><![CDATA[85967469, Janko Williams/Flickr]]></credit>
+        </image>
+        <image>
+          <id>85207068</id>
+          <small>85207068_10.jpg</small>
+          <medium>85207068_10.jpg</medium>
+          <credit><![CDATA[85207068, Vilhjalmur Ingi Vilhjalmsson/Flickr]]></credit>
+        </image>
+        <image>
+          <id>88009042</id>
+          <small>88009042_7.jpg</small>
+          <medium>88009042_7.jpg</medium>
+          <credit><![CDATA[88009042, D. Sharon Pruitt Pink Sherbet Photography/Flickr]]></credit>
+        </image>
+        <image>
+          <id>85150023</id>
+          <small>85150023.jpg</small>
+          <medium>85150023.jpg</medium>
+          <credit><![CDATA[85150023, Dr. David J. Otway/Flickr]]></credit>
+        </image>
+        <image>
+          <id>85491845</id>
+          <small>85491845_10.jpg</small>
+          <medium>85491845_10.jpg</medium>
+          <credit><![CDATA[85491845, Steph Goralnick/Flickr]]></credit>
+        </image>
+        <image>
+          <id>85438031</id>
+          <small>85438031_7.jpg</small>
+          <medium>85438031_7.jpg</medium>
+          <credit><![CDATA[85438031, Copyright Simon English/Flickr]]></credit>
+        </image>
+        <image>
+          <id>sb10070039af-001</id>
+          <small>sb10070039af-001.jpg</small>
+          <medium>sb10070039af-001.jpg</medium>
+          <credit><![CDATA[sb10070039af-001, Lyle Owerko/Stone]]></credit>
+        </image>
+        <image>
+          <id>sb10068806e-001</id>
+          <small>sb10068806e-001.jpg</small>
+          <medium>sb10068806e-001.jpg</medium>
+          <credit><![CDATA[sb10068806e-001, Michael Blann/Stone+]]></credit>
+        </image>
+        <image>
+          <id>200135544-001</id>
+          <small>200135544-001.jpg</small>
+          <medium>200135544-001.jpg</medium>
+          <credit><![CDATA[200135544-001, Tim Macpherson/Stone+]]></credit>
+        </image>
+        <image>
+          <id>AB14821</id>
+          <small>AB14821.jpg</small>
+          <medium>AB14821.jpg</medium>
+          <credit><![CDATA[AB14821, Travel Pix/Taxi]]></credit>
+        </image>
+        <image>
+          <id>200493427-004</id>
+          <small>200493427-004.jpg</small>
+          <medium>200493427-004.jpg</medium>
+          <credit><![CDATA[200493427-004, Joe Toreno/Stone+]]></credit>
+        </image>
+        <image>
+          <id>200479382-001</id>
+          <small>200479382-001.jpg</small>
+          <medium>200479382-001-001.jpg</medium>
+          <credit><![CDATA[200479382-001, Mike Powell/Stone+]]></credit>
+        </image>
+        <image>
+          <id>200468632-001</id>
+          <small>200468632-001.jpg</small>
+          <medium>200468632-001.jpg</medium>
+          <credit><![CDATA[200468632-001, Zubin Shroff/Stone]]></credit>
+        </image>
+        <image>
+          <id>sb10062364s-001</id>
+          <small>sb10062364s-001.jpg</small>
+          <medium>sb10062364s-001.jpg</medium>
+          <credit><![CDATA[200135544-001, Tim Macpherson/Stone+]]></credit>
+        </image>
+        <image>
+          <id>200127104-001</id>
+          <small>200127104-001.jpg</small>
+          <medium>200127104-001.jpg</medium>
+          <credit><![CDATA[200127104-001, Asger Carlsen/Riser]]></credit>
+        </image>
+        <image>
+          <id>200009090-001</id>
+          <small>200009090-001.jpg</small>
+          <medium>200009090-001.jpg</medium>
+          <credit><![CDATA[200009090-001, Amanda Friedman/Photographer's Choice]]></credit>
+        </image>
+        <image>
+          <id>86177340</id>
+          <small>86177340.jpg</small>
+          <medium>86177340.jpg</medium>
+          <credit><![CDATA[86177340, Guy Batey/Flickr]]></credit>
+        </image>
+        <image>
+          <id>85911648</id>
+          <small>85911648.jpg</small>
+          <medium>85911648.jpg</medium>
+          <credit><![CDATA[85911648, ©Roman Krikheli proekt.co.uk/Flickr]]></credit>
+        </image>
+        <image>
+          <id>85909252</id>
+          <small>85909252.jpg</small>
+          <medium>85909252.jpg</medium>
+          <credit><![CDATA[85909252, ©Alison Bank/Flickr]]></credit>
+        </image>
+        <image>
+          <id>85780337</id>
+          <small>85780337_Darker.jpg</small>
+          <medium>85780337_Darker.jpg</medium>
+          <credit><![CDATA[85780337, Patrick Joust/Flickr]]></credit>
+        </image>
+        <image>
+          <id>85571446</id>
+          <small>85571446.jpg</small>
+          <medium>85571446.jpg</medium>
+          <credit><![CDATA[85571446, Fernando Prats/Flickr]]></credit>
+        </image>
+        <image>
+          <id>85471886</id>
+          <small>85471886.jpg</small>
+          <medium>85471886.jpg</medium>
+          <credit><![CDATA[85471886, Kevin Cooley/Stone]]></credit>
+        </image>
+        <image>
+          <id>85455079</id>
+          <small>85455079.jpg</small>
+          <medium>85455079.jpg</medium>
+          <credit><![CDATA[85455079, Peter Baker/Flickr]]></credit>
+        </image>
+        <image>
+          <id>85455037</id>
+          <small>85455037.jpg</small>
+          <medium>85455037.jpg</medium>
+          <credit><![CDATA[85455037, Peter Baker/Flickr]]></credit>
+        </image>
+        <image>
+          <id>85454443</id>
+          <small>85454443.jpg</small>
+          <medium>85454443.jpg</medium>
+          <credit><![CDATA[85454443, Peter Baker/Flickr]]></credit>
+        </image>
+        <image>
+          <id>85389713</id>
+          <small>85389713.jpg</small>
+          <medium>85389713.jpg</medium>
+          <credit><![CDATA[85389713, Joseph O. Holmes/portfolio.streetnine.com/Flickr]]></credit>
+        </image>
+        <image>
+          <id>85201133</id>
+          <small>85201133.jpg</small>
+          <medium>85201133.jpg</medium>
+          <credit><![CDATA[85201133, Jeremy Woodhouse/The Image Bank]]></credit>
+        </image>
+        <image>
+          <id>85191496</id>
+          <small>85191496.jpg</small>
+          <medium>85191496.jpg</medium>
+          <credit><![CDATA[85191496, atomare aufruestung/Flickr]]></credit>
+        </image>
+        <image>
+          <id>85153829</id>
+          <small>85153829.jpg</small>
+          <medium>85153829.jpg</medium>
+          <credit><![CDATA[85153829, Abi Massey/Flickr]]></credit>
+        </image>
+        <image>
+          <id>85152403</id>
+          <small>85152403.jpg</small>
+          <medium>85152403.jpg</medium>
+          <credit><![CDATA[85152403, Photography by Simon Bond/Flickr]]></credit>
+        </image>
+        <image>
+          <id>85138337</id>
+          <small>85138337.jpg</small>
+          <medium>85138337.jpg</medium>
+          <credit><![CDATA[85138337, Levan Kakabadze/Flickr]]></credit>
+        </image>
+        <image>
+          <id>84663145</id>
+          <small>84663145.jpg</small>
+          <medium>84663145.jpg</medium>
+          <credit><![CDATA[84663145, Joe Toreno/Stone]]></credit>
+        </image>
+        <image>
+          <id>83842401</id>
+          <small>83842401.jpg</small>
+          <medium>83842401.jpg</medium>
+          <credit><![CDATA[83842401, Roelof Bos/Photonica]]></credit>
+        </image>
+        <image>
+          <id>81978222</id>
+          <small>81978222.jpg</small>
+          <medium>81978222.jpg</medium>
+          <credit><![CDATA[81978222, Nick Ballon/Photonica]]></credit>
+        </image>
+        <image>
+          <id>80248406</id>
+          <small>80248406.jpg</small>
+          <medium>80248406.jpg</medium>
+          <credit><![CDATA[80248406, William Albert Allard/National Geographic]]></credit>
+        </image>
+        <image>
+          <id>73740054</id>
+          <small>73740054.jpg</small>
+          <medium>73740054.jpg</medium>
+          <credit><![CDATA[73740054, Car Culture/Collection Mix: Subjects]]></credit>
+        </image>
+        <image>
+          <id>71570047</id>
+          <small>71570047.jpg</small>
+          <medium>71570047.jpg</medium>
+          <credit><![CDATA[71570047, Stocktrek Images/Collection Mix: Subjects]]></credit>
+        </image>
+        <image>
+          <id>10175336</id>
+          <small>10175336.jpg</small>
+          <medium>10175336.jpg</medium>
+          <credit><![CDATA[10175336, Astromujoff/Riser]]></credit>
+        </image>
+        <image>
+          <id>10050137</id>
+          <small>10050137.jpg</small>
+          <medium>10050137.jpg</medium>
+          <credit><![CDATA[10050137, Pete Turner/Stone]]></credit>
+        </image>
+        <image>
+          <id>892036-001</id>
+          <small>892036-001.jpg</small>
+          <medium>892036-001.jpg</medium>
+          <credit><![CDATA[892036-001, Amanda Friedman/Stone]]></credit>
+        </image>
+        <image>
+          <id>888591-001</id>
+          <small>888591-001.jpg</small>
+          <medium>888591-001.jpg</medium>
+          <credit><![CDATA[888591-001, Angela Wyant/Riser]]></credit>
+        </image>
+        <image>
+          <id>6454-000030</id>
+          <small>6454-000030.jpg</small>
+          <medium>6454-000030.jpg</medium>
+          <credit><![CDATA[6454-000030, Bunni Lezak/Photonica]]></credit>
+        </image>
+        <image>
+          <id>6219-000058</id>
+          <small>6219-000058.jpg</small>
+          <medium>6219-000058.jpg</medium>
+          <credit><![CDATA[6219-000058, Andrew Garn/Photonica]]></credit>
+        </image>
+        <image>
+          <id>84868955</id>
+          <small>84868955.jpg</small>
+          <medium>84868955.jpg</medium>
+          <credit><![CDATA[84868955, Michael Blann/Reportage]]></credit>
+        </image>
+        <image>
+          <id>84871245</id>
+          <small>84871245.jpg</small>
+          <medium>84871245.jpg</medium>
+          <credit><![CDATA[84871245, Miguel Salmeron/Photonica]]></credit>
+        </image>
+        <image>
+          <id>85121400</id>
+          <small>85121400.jpg</small>
+          <medium>85121400.jpg</medium>
+          <credit><![CDATA[85121400, Linda L./Flickr]]></credit>
+        </image>
+        <image>
+          <id>6111-006310</id>
+          <small>6111-006310.jpg</small>
+          <medium>6111-006310.jpg</medium>
+          <credit><![CDATA[6111-006310, Ann Cutting/Photonica]]></credit>
+        </image>
+        <image>
+          <id>6298-000062</id>
+          <small>6298-000062.jpg</small>
+          <medium>6298-000062.jpg</medium>
+          <credit><![CDATA[6298-000062, Rebekah Crossman/Photonica]]></credit>
+        </image>
+        <image>
+          <id>6546-000231</id>
+          <small>6546-000231.jpg</small>
+          <medium>6546-000231.jpg</medium>
+          <credit><![CDATA[6546-000231, LaCoppola-Meier/Photonica]]></credit>
+        </image>
+        <image>
+          <id>10123975</id>
+          <small>10123975.jpg</small>
+          <medium>10123975.jpg</medium>
+          <credit><![CDATA[10123975, Pete Turner/Stone]]></credit>
+        </image>
+        <image>
+          <id>10168132</id>
+          <small>10168132.jpg</small>
+          <medium>10168132.jpg</medium>
+          <credit><![CDATA[10168132, Pete Turner/Stone]]></credit>
+        </image>
+        <image>
+          <id>10168161</id>
+          <small>10168161.jpg</small>
+          <medium>10168161.jpg</medium>
+          <credit><![CDATA[10168161, Pete Turner/Stone]]></credit>
+        </image>
+        <image>
+          <id>82830912</id>
+          <small>82830912.jpg</small>
+          <medium>82830912.jpg</medium>
+          <credit><![CDATA[82830912, Andy Ryan/Photonica]]></credit>
+        </image>
+        <image>
+          <id>83987030</id>
+          <small>83987030.jpg</small>
+          <medium>83987030.jpg</medium>
+          <credit><![CDATA[83987030, Mark Horn/Photonica]]></credit>
+        </image>
+        <image>
+          <id>84040804</id>
+          <small>84040804.jpg</small>
+          <medium>84040804.jpg</medium>
+          <credit><![CDATA[84040804, Ed Freeman/Stone]]></credit>
+        </image>
+         <image>
+          <id>84425561</id>
+          <small>84425561.jpg</small>
+          <medium>84425561.jpg</medium>
+          <credit><![CDATA[84425561, Sam Diephuis/Stone]]></credit>
+        </image>
+        <image>
+          <id>84554343</id>
+          <small>84554343.jpg</small>
+          <medium>84554343.jpg</medium>
+          <credit><![CDATA[84554343, Thomas Jackson/Stone+]]></credit>
+        </image>
+        <image>
+          <id>85119176</id>
+          <small>85119176.jpg</small>
+          <medium>85119176.jpg</medium>
+          <credit><![CDATA[85119176, Luka Young/Flickr]]></credit>
+        </image>
+        <image>
+          <id>85151703</id>
+          <small>85151703.jpg</small>
+          <medium>85151703.jpg</medium>
+          <credit><![CDATA[85151703, tedfoo/Flickr]]></credit>
+        </image>
+        <image>
+          <id>85152379</id>
+          <small>85152379.jpg</small>
+          <medium>85152379.jpg</medium>
+          <credit><![CDATA[85152379, Thomas Lottermoser - manganite.net/Flickr]]></credit>
+        </image>
+        <image>
+          <id>85186798</id>
+          <small>85186798.jpg</small>
+          <medium>85186798.jpg</medium>
+          <credit><![CDATA[85186798, Thomas Damgaard Sabo/Flickr]]></credit>
+        </image>
+        <image>
+          <id>85207031</id>
+          <small>85207031.jpg</small>
+          <medium>85207031.jpg</medium>
+          <credit><![CDATA[85207031, Anders R. Naesset/Flickr]]></credit>
+        </image>
+        <image>
+          <id>85321103</id>
+          <small>85321103.jpg</small>
+          <medium>85321103.jpg</medium>
+          <credit><![CDATA[85321103, Joshua Caldwell/Flickr]]></credit>
+        </image>
+        <image>
+          <id>85390087</id>
+          <small>85390087.jpg</small>
+          <medium>85390087.jpg</medium>
+          <credit><![CDATA[85390087, andre bernardo/Flickr]]></credit>
+        </image>
+        <image>
+          <id>85390766</id>
+          <small>85390766.jpg</small>
+          <medium>85390766.jpg</medium>
+          <credit><![CDATA[85390766, monbetsu hokkaido/Flickr]]></credit>
+        </image>
+          <image>
+          <id>85421626</id>
+          <small>85421626.jpg</small>
+          <medium>85421626.jpg</medium>
+          <credit><![CDATA[85421626, mark powell/Flickr]]></credit>
+        </image>
+        <image>
+          <id>85437948</id>
+          <small>85437948.jpg</small>
+          <medium>85437948.jpg</medium>
+          <credit><![CDATA[85437948, Marius Vasiliu/Flickr]]></credit>
+        </image>
+        <image>
+          <id>85454301</id>
+          <small>85454301.jpg</small>
+          <medium>85454301.jpg</medium>
+          <credit><![CDATA[85454301, Peter Baker/Flickr]]></credit>
+        </image>
+        <image>
+          <id>85468789</id>
+          <small>85468789.jpg</small>
+          <medium>85468789.jpg</medium>
+          <credit><![CDATA[85468789, Raymond Grasso/Flickr]]></credit>
+        </image>
+        <image>
+          <id>85570441</id>
+          <small>85570441.jpg</small>
+          <medium>85570441.jpg</medium>
+          <credit><![CDATA[85570441, Boaz Rottem/Flickr]]></credit>
+        </image>
+        <image>
+          <id>85572522</id>
+          <small>85572522.jpg</small>
+          <medium>85572522.jpg</medium>
+          <credit><![CDATA[85572522, Ali KARAGOZ/Flickr Select]]></credit>
+        </image>
+        <image>
+          <id>85729151</id>
+          <small>85729151.jpg</small>
+          <medium>85729151.jpg</medium>
+          <credit><![CDATA[85729151, mark powell/Flickr]]></credit>
+        </image>
+        <image>
+          <id>85737674</id>
+          <small>85737674.jpg</small>
+          <medium>85737674.jpg</medium>
+          <credit><![CDATA[85737674, Yasushi Okano/Flickr]]></credit>
+        </image>
+        <image>
+          <id>85900536</id>
+          <small>85900536.jpg</small>
+          <medium>85900536.jpg</medium>
+          <credit><![CDATA[85900536, Simon Bond/Flickr Select]]></credit>
+        </image>
+        <image>
+          <id>85981125</id>
+          <small>85981125.jpg</small>
+          <medium>85981125.jpg</medium>
+          <credit><![CDATA[85981125, Digitalcursor/Miron Kiriliv/Flickr]]></credit>
+        </image>
+          <image>
+          <id>86167689</id>
+          <small>86167689.jpg</small>
+          <medium>86167689.jpg</medium>
+          <credit><![CDATA[86167689, Brad Wenner/Flickr]]></credit>
+        </image>
+        <image>
+          <id>86346105</id>
+          <small>86346105.jpg</small>
+          <medium>86346105.jpg</medium>
+          <credit><![CDATA[86346105, Andrew Fladeboe/Flickr]]></credit>
+        </image>
+        <image>
+          <id>86962969</id>
+          <small>86962969.jpg</small>
+          <medium>86962969.jpg</medium>
+          <credit><![CDATA[86962969, Tsuneo Yamashita/Taxi Japan]]></credit>
+        </image>
+        <image>
+          <id>88027209</id>
+          <small>88027209.jpg</small>
+          <medium>88027209.jpg</medium>
+          <credit><![CDATA[88027209, Michelle Devall/Flickr]]></credit>
+        </image>
+        <image>
+          <id>88273847</id>
+          <small>88273847.jpg</small>
+          <medium>88273847.jpg</medium>
+          <credit><![CDATA[88273847, Photo by Orrin Anderson/Flickr]]></credit>
+        </image>
+        <image>
+          <id>88274132</id>
+          <small>88274132.jpg</small>
+          <medium>88274132.jpg</medium>
+          <credit><![CDATA[88274132, Mark A Paulda/Flickr]]></credit>
+        </image>
+        <image>
+          <id>88526725</id>
+          <small>88526725.jpg</small>
+          <medium>88526725.jpg</medium>
+          <credit><![CDATA[88526725, GettyImages/Flickr]]></credit>
+        </image>
+        <image>
+          <id>88615609</id>
+          <small>88615609.jpg</small>
+          <medium>88615609.jpg</medium>
+          <credit><![CDATA[88615609, www.sapnasapien.blogspot.com/Flickr]]></credit>
+        </image>
+        <image>
+          <id>88621871</id>
+          <small>88621871.jpg</small>
+          <medium>88621871.jpg</medium>
+          <credit><![CDATA[88621871, eyetwist/kevin balluff/Flickr]]></credit>
+        </image>
+        <image>
+          <id>88735710</id>
+          <small>88735710.jpg</small>
+          <medium>88735710.jpg</medium>
+          <credit><![CDATA[88735710, Gwendolyn Coyne/Flickr]]></credit>
+        </image>
+          <image>
+          <id>200068759-001</id>
+          <small>200068759-001.jpg</small>
+          <medium>200068759-001.jpg</medium>
+          <credit><![CDATA[200068759-001, Robert Holmgren/Stone+]]></credit>
+        </image>
+        <image>
+          <id>200121674-001</id>
+          <small>200121674-001.jpg</small>
+          <medium>200121674-001.jpg</medium>
+          <credit><![CDATA[200121674-001, Lesley Robson-Foster/Stone+]]></credit>
+        </image>
+        <image>
+          <id>200128201-001</id>
+          <small>200128201-001.jpg</small>
+          <medium>200128201-001.jpg</medium>
+          <credit><![CDATA[200128201-001, Matthias Clamer/Stone+]]></credit>
+        </image>
+        <image>
+          <id>200170770-002</id>
+          <small>200170770-002.jpg</small>
+          <medium>200170770-002.jpg</medium>
+          <credit><![CDATA[200170770-002, Catherine Ledner/Stone]]></credit>
+        </image>
+        <image>
+          <id>sb10062364o-001</id>
+          <small>sb10062364o-001.jpg</small>
+          <medium>sb10062364o-001.jpg</medium>
+          <credit><![CDATA[sb10062364o-001, Stephen Mallon/Stone]]></credit>
+        </image>
+        <image>
+          <id>sb10064777c-001</id>
+          <small>sb10064777c-001.jpg</small>
+          <medium>sb10064777c-001.jpg</medium>
+          <credit><![CDATA[sb10064777c-001, Asger Carlsen/Stone+]]></credit>
+        </image>
+        <image>
+          <id>sb10065153a-001</id>
+          <small>sb10065153a-001.jpg</small>
+          <medium>sb10065153a-001.jpg</medium>
+          <credit><![CDATA[sb10065153a-001, Andreas Kuehn/Photonica]]></credit>
+        </image>
+        <image>
+          <id>sb10065254w-001</id>
+          <small>sb10065254w-001.jpg</small>
+          <medium>sb10065254w-001.jpg</medium>
+          <credit><![CDATA[sb10065254w-001, Jason Hawkes/Stone]]></credit>
+        </image>
+        <image>
+          <id>sb10067748l-001</id>
+          <small>sb10067748l-001.jpg</small>
+          <medium>sb10067748l-001.jpg</medium>
+          <credit><![CDATA[sb10067748l-001, Thomas Northcut/Photonica]]></credit>
+        </image>
+        </images>
+      <footage>
+        <video>
+          <id>326-49</id>
+          <images>
+            <small>GettyImages_326-49.jpg</small>
+            <medium>GettyImages_326-49.jpg</medium>
+          </images>
+          <flv>GettyImages_326-49_B.flv</flv>
+          <credit><![CDATA[326-49, one80]]></credit>
+        </video>
+        <video>
+          <id>368-3</id>
+          <images>
+            <small>GettyImages_368-3.jpg</small>
+            <medium>GettyImages_368-3.jpg</medium>
+          </images>
+          <flv>GettyImages_368-3_B1.flv</flv>
+          <credit><![CDATA[368-3, Image Bank Film]]></credit>
+        </video>
+          <video>
+          <id>659-13</id>
+          <images>
+            <small>GettyImages_659-13.jpg</small>
+            <medium>GettyImages_659-13.jpg</medium>
+          </images>
+          <flv>GettyImages_659-13_n1.flv</flv>
+          <credit><![CDATA[659-13, Image Bank Film]]></credit>
+        </video>
+          <video>
+          <id>831-16</id>
+          <images>
+            <small>GettyImages_831-16.jpg</small>
+            <medium>GettyImages_831-16.jpg</medium>
+          </images>
+          <flv>GettyImages_831-16_B2.flv</flv>
+          <credit><![CDATA[831-16, one80]]></credit>
+        </video>
+          <video>
+          <id>960-11</id>
+          <images>
+            <small>GettyImages_960-11.jpg</small>
+            <medium>GettyImages_960-11.jpg</medium>
+          </images>
+          <flv>GettyImages_960-11_B1.flv</flv>
+          <credit><![CDATA[960-11, Image Bank Film]]></credit>
+        </video>
+          <video>
+          <id>1097-21</id>
+          <images>
+            <small>GettyImages_1097-21.jpg</small>
+            <medium>GettyImages_1097-21.jpg</medium>
+          </images>
+          <flv>GettyImages_1097-21_B.flv</flv>
+          <credit><![CDATA[1097-21, one80]]></credit>
+        </video>
+          <video>
+          <id>1148-21</id>
+          <images>
+            <small>GettyImages_1148-21.jpg</small>
+            <medium>GettyImages_1148-21.jpg</medium>
+          </images>
+          <flv>GettyImages_1148-21_B.flv</flv>
+          <credit><![CDATA[1148-21, Image Bank Film]]></credit>
+        </video>
+         <video>
+          <id>1158-83</id>
+          <images>
+            <small>GettyImages_1158-83.jpg</small>
+            <medium>GettyImages_1158-83.jpg</medium>
+          </images>
+          <flv>GettyImages_1158-83_n.flv</flv>
+          <credit><![CDATA[1158-83, Archive Films]]></credit>
+        </video>
+         <video>
+          <id>1226-94</id>
+          <images>
+            <small>GettyImages_1226-94.jpg</small>
+            <medium>GettyImages_1226-94.jpg</medium>
+          </images>
+          <flv>GettyImages_1226-94_n.flv</flv>
+          <credit><![CDATA[1226-94, one80]]></credit>
+        </video>
+         <video>
+          <id>80823247</id>
+          <images>
+            <small>GettyImages_80823247.jpg</small>
+            <medium>GettyImages_80823247.jpg</medium>
+          </images>
+          <flv>GettyImages_80823247_n1.flv</flv>
+          <credit><![CDATA[80823247, Art Wolfe Travels to the Edge]]></credit>
+        </video>
+         <video>
+          <id>80823293</id>
+          <images>
+            <small>GettyImages_80823293.jpg</small>
+            <medium>GettyImages_80823293.jpg</medium>
+          </images>
+          <flv>GettyImages_80823293_B.flv</flv>
+          <credit><![CDATA[80823293, Art Wolfe Travels to the Edge ]]></credit>
+        </video>
+         <video>
+          <id>81615435</id>
+          <images>
+            <small>GettyImages_81615435.jpg</small>
+            <medium>GettyImages_81615435.jpg</medium>
+          </images>
+          <flv>GettyImages_81615435_n.flv</flv>
+          <credit><![CDATA[81615435, Art Wolfe Travels to the Edge]]></credit>
+        </video>
+         <video>
+          <id>81621626</id>
+          <images>
+            <small>GettyImages_81621626.jpg</small>
+            <medium>GettyImages_81621626.jpg</medium>
+          </images>
+          <flv>GettyImages_81621626_B1.flv</flv>
+          <credit><![CDATA[81621626, Image Bank Film]]></credit>
+        </video>
+         <video>
+          <id>81872678</id>
+          <images>
+            <small>GettyImages_81872678.jpg</small>
+            <medium>GettyImages_81872678.jpg</medium>
+          </images>
+          <flv>GettyImages_81872678_n.flv</flv>
+          <credit><![CDATA[81872678, Universal Studios]]></credit>
+        </video>
+         <video>
+          <id>84282243</id>
+          <images>
+            <small>GettyImages_84282243.jpg</small>
+            <medium>GettyImages_84282243.jpg</medium>
+          </images>
+          <flv>GettyImages_84282243_n.flv</flv>
+          <credit><![CDATA[84282243, one80]]></credit>
+        </video>
+         <video>
+          <id>85266455</id>
+          <images>
+            <small>GettyImages_85266455.jpg</small>
+            <medium>GettyImages_85266455.jpg</medium>
+          </images>
+          <flv>GettyImages_85266455_n1.flv</flv>
+          <credit><![CDATA[85266455, Image Bank Film]]></credit>
+        </video>
+        <video>
+          <id>295-1</id>
+          <images>
+            <small>GettyImages_295-1_n.jpg</small>
+            <medium>GettyImages_295-1_n.jpg</medium>
+          </images>
+          <flv>GettyImages_295-1_n.flv</flv>
+          <credit><![CDATA[295-1, one80]]></credit>
+        </video>
+        <video>
+          <id>590-150</id>
+          <images>
+            <small>GettyImages_590-150_n.jpg</small>
+            <medium>GettyImages_590-150_n.jpg</medium>
+          </images>
+          <flv>GettyImages_590-150_n.flv</flv>
+          <credit><![CDATA[590-150, one80]]></credit>
+        </video>
+          <video>
+          <id>659-21</id>
+          <images>
+            <small>GettyImages_659-21_n.jpg</small>
+            <medium>GettyImages_659-21_n.jpg</medium>
+          </images>
+          <flv>GettyImages_659-21_n.flv</flv>
+          <credit><![CDATA[659-21, one80]]></credit>
+        </video>
+          <video>
+          <id>677-51</id>
+          <images>
+            <small>GettyImages_677-51_n.jpg</small>
+            <medium>GettyImages_677-51_n.jpg</medium>
+          </images>
+          <flv>GettyImages_677-51_n.flv</flv>
+          <credit><![CDATA[677-51, one80]]></credit>
+        </video>
+          <video>
+          <id>680-81</id>
+          <images>
+            <small>GettyImages_680-81_n.jpg</small>
+            <medium>GettyImages_680-81_n.jpg</medium>
+          </images>
+          <flv>GettyImages_680-81_n1.flv</flv>
+          <credit><![CDATA[680-81, one80]]></credit>
+        </video>
+          <video>
+          <id>698-87</id>
+          <images>
+            <small>GettyImages_698-87_n.jpg</small>
+            <medium>GettyImages_698-87_n.jpg</medium>
+          </images>
+          <flv>GettyImages_698-87_n.flv</flv>
+          <credit><![CDATA[698-87, Image Bank Film]]></credit>
+        </video>
+          <video>
+          <id>698-97</id>
+          <images>
+            <small>GettyImages_698-97_n.jpg</small>
+            <medium>GettyImages_698-97_n.jpg</medium>
+          </images>
+          <flv>GettyImages_698-97_n.flv</flv>
+          <credit><![CDATA[698-97, Image Bank Film]]></credit>
+        </video>
+         <video>
+          <id>706-1</id>
+          <images>
+            <small>GettyImages_706-1_n.jpg</small>
+            <medium>GettyImages_706-1_n.jpg</medium>
+          </images>
+          <flv>GettyImages_706-1_n.flv</flv>
+          <credit><![CDATA[706-1, Image Bank Film]]></credit>
+        </video>
+         <video>
+          <id>712-84</id>
+          <images>
+            <small>GettyImages_712-84_n.jpg</small>
+            <medium>GettyImages_712-84_n.jpg</medium>
+          </images>
+          <flv>GettyImages_712-84_n.flv</flv>
+          <credit><![CDATA[712-84, Image Bank Film]]></credit>
+        </video>
+         <video>
+          <id>739-102</id>
+          <images>
+            <small>GettyImages_739-102_n.jpg</small>
+            <medium>GettyImages_739-102_n.jpg</medium>
+          </images>
+          <flv>GettyImages_739-102_n.flv</flv>
+          <credit><![CDATA[739-102, one80]]></credit>
+        </video>
+         <video>
+          <id>742-17</id>
+          <images>
+            <small>GettyImages_742-17_n.jpg</small>
+            <medium>GettyImages_742-17_n.jpg</medium>
+          </images>
+          <flv>GettyImages_742-17_n.flv</flv>
+          <credit><![CDATA[742-17, one80]]></credit>
+        </video>
+         <video>
+          <id>744-28</id>
+          <images>
+            <small>GettyImages_744-28_n.jpg</small>
+            <medium>GettyImages_744-28_n.jpg</medium>
+          </images>
+          <flv>GettyImages_744-28_n1.flv</flv>
+          <credit><![CDATA[744-28, one80]]></credit>
+        </video>
+         <video>
+          <id>753-69</id>
+          <images>
+            <small>GettyImages_753-69_n.jpg</small>
+            <medium>GettyImages_753-69_n.jpg</medium>
+          </images>
+          <flv>GettyImages_753-69_n.flv</flv>
+          <credit><![CDATA[753-69, one80]]></credit>
+        </video>
+         <video>
+          <id>755-11</id>
+          <images>
+            <small>GettyImages_755-11_n.jpg</small>
+            <medium>GettyImages_755-11_n.jpg</medium>
+          </images>
+          <flv>GettyImages_755-11_n.flv</flv>
+          <credit><![CDATA[755-11, Image Bank Film]]></credit>
+        </video>
+         <video>
+          <id>769-110</id>
+          <images>
+            <small>GettyImages_769-110_n.jpg</small>
+            <medium>GettyImages_769-110_n.jpg</medium>
+          </images>
+          <flv>GettyImages_769-110_n.flv</flv>
+          <credit><![CDATA[769-110, one80]]></credit>
+        </video>
+         <video>
+          <id>777-48</id>
+          <images>
+            <small>GettyImages_777-48_n.jpg</small>
+            <medium>GettyImages_777-48_n.jpg</medium>
+          </images>
+          <flv>GettyImages_777-48_n.flv</flv>
+          <credit><![CDATA[777-48, one80]]></credit>
+        </video>
+	<video>
+          <id>913-11</id>
+          <images>
+            <small>GettyImages_913-11_n.jpg</small>
+            <medium>GettyImages_913-11_n.jpg</medium>
+          </images>
+          <flv>GettyImages_913-11_n.flv</flv>
+          <credit><![CDATA[913-11, one80]]></credit>
+        </video>
+         <video>
+          <id>954-8</id>
+          <images>
+            <small>GettyImages_954-8_n.jpg</small>
+            <medium>GettyImages_954-8_n.jpg</medium>
+          </images>
+          <flv>GettyImages_954-8_n1.flv</flv>
+          <credit><![CDATA[954-8, one80]]></credit>
+        </video>
+         <video>
+          <id>1150-4</id>
+          <images>
+            <small>GettyImages_1150-4_n.jpg</small>
+            <medium>GettyImages_1150-4_n.jpg</medium>
+          </images>
+          <flv>GettyImages_1150-4_n.flv</flv>
+          <credit><![CDATA[1150-4, one80]]></credit>
+        </video>
+	<video>
+          <id>1156-84</id>
+          <images>
+            <small>GettyImages_1156-84_n.jpg</small>
+            <medium>GettyImages_1156-84_n.jpg</medium>
+          </images>
+          <flv>GettyImages_1156-84_n.flv</flv>
+          <credit><![CDATA[1156-84, Apexstock]]></credit>
+        </video>
+         <video>
+          <id>1257-6</id>
+          <images>
+            <small>GettyImages_1257-6_n.jpg</small>
+            <medium>GettyImages_1257-6_n.jpg</medium>
+          </images>
+          <flv>GettyImages_1257-6_n.flv</flv>
+          <credit><![CDATA[1257-6, one80]]></credit>
+        </video>
+         <video>
+          <id>1336-16</id>
+          <images>
+            <small>GettyImages_1336-16_n.jpg</small>
+            <medium>GettyImages_1336-16_n.jpg</medium>
+          </images>
+          <flv>GettyImages_1336-16_n.flv</flv>
+          <credit><![CDATA[1336-16, one80]]></credit>
+        </video>
+	<video>
+          <id>79751865</id>
+          <images>
+            <small>GettyImages_79751865_n.jpg</small>
+            <medium>GettyImages_79751865_n.jpg</medium>
+          </images>
+          <flv>GettyImages_79751865_n.flv</flv>
+          <credit><![CDATA[79751865, one80]]></credit>
+        </video>
+         <video>
+          <id>80823145</id>
+          <images>
+            <small>GettyImages_80823145_n.jpg</small>
+            <medium>GettyImages_80823145_n.jpg</medium>
+          </images>
+          <flv>GettyImages_80823145_n.flv</flv>
+          <credit><![CDATA[80823145, Art Wolfe Travels to the Edge]]></credit>
+        </video>
+         <video>
+          <id>81019707</id>
+          <images>
+            <small>GettyImages_81019707_n.jpg</small>
+            <medium>GettyImages_81019707_n.jpg</medium>
+          </images>
+          <flv>GettyImages_81019707_n.flv</flv>
+          <credit><![CDATA[81019707, Discovery FootageSource]]></credit>
+        </video>
+	<video>
+          <id>81157333</id>
+          <images>
+            <small>GettyImages_81157333_n.jpg</small>
+            <medium>GettyImages_81157333_n.jpg</medium>
+          </images>
+          <flv>GettyImages_81157333_n.flv</flv>
+          <credit><![CDATA[81157333, one80]]></credit>
+        </video>
+         <video>
+          <id>82186268</id>
+          <images>
+            <small>GettyImages_82186268_n.jpg</small>
+            <medium>GettyImages_82186268_n.jpg</medium>
+          </images>
+          <flv>GettyImages_82186268_n.flv</flv>
+          <credit><![CDATA[82186268, one80]]></credit>
+        </video>
+         <video>
+          <id>82196938</id>
+          <images>
+            <small>GettyImages_82196938_n.jpg</small>
+            <medium>GettyImages_82196938_n.jpg</medium>
+          </images>
+          <flv>GettyImages_82196938_n.flv</flv>
+          <credit><![CDATA[82196938, Image Bank Film]]></credit>
+        </video>
+	<video>
+          <id>82291225</id>
+          <images>
+            <small>GettyImages_82291225_n.jpg</small>
+            <medium>GettyImages_82291225_n.jpg</medium>
+          </images>
+          <flv>GettyImages_82291225_n.flv</flv>
+          <credit><![CDATA[82291225, Art Wolfe Travels to the Edge]]></credit>
+        </video>
+         <video>
+          <id>83421203</id>
+          <images>
+            <small>GettyImages_83421203_n.jpg</small>
+            <medium>GettyImages_83421203_n.jpg</medium>
+          </images>
+          <flv>GettyImages_83421203_n.flv</flv>
+          <credit><![CDATA[83421203, Image Bank Film]]></credit>
+        </video>
+         <video>
+          <id>84658488</id>
+          <images>
+            <small>GettyImages_84658488_n.jpg</small>
+            <medium>GettyImages_84658488_n.jpg</medium>
+          </images>
+          <flv>GettyImages_84658488_n.flv</flv>
+          <credit><![CDATA[84658488, Image Bank Film]]></credit>
+        </video>
+	<video>
+          <id>85175819</id>
+          <images>
+            <small>GettyImages_85175819_n.jpg</small>
+            <medium>GettyImages_85175819_n.jpg</medium>
+          </images>
+          <flv>GettyImages_85175819_n.flv</flv>
+          <credit><![CDATA[85175819, Image Bank Film]]></credit>
+        </video>
+         <video>
+          <id>85922859</id>
+          <images>
+            <small>GettyImages_85922859_n.jpg</small>
+            <medium>GettyImages_85922859_n.jpg</medium>
+          </images>
+          <flv>GettyImages_85922859_n.flv</flv>
+          <credit><![CDATA[85922859, Image Bank Film]]></credit>
+        </video>
+         <video>
+          <id>86179471</id>
+          <images>
+            <small>GettyImages_86179471_n.jpg</small>
+            <medium>GettyImages_86179471_n.jpg</medium>
+          </images>
+          <flv>GettyImages_86179471_n.flv</flv>
+          <credit><![CDATA[86179471, Image Bank Film]]></credit>
+        </video>
+	<video>
+          <id>88188630</id>
+          <images>
+            <small>GettyImages_88188630_n.jpg</small>
+            <medium>GettyImages_88188630_n.jpg</medium>
+          </images>
+          <flv>GettyImages_88188630_n.flv</flv>
+          <credit><![CDATA[88188630, one80]]></credit>
+        </video>
+         <video>
+          <id>88621975</id>
+          <images>
+            <small>GettyImages_88621975_n.jpg</small>
+            <medium>GettyImages_88621975_n.jpg</medium>
+          </images>
+          <flv>GettyImages_88621975_n.flv</flv>
+          <credit><![CDATA[88621975, one80]]></credit>
+        </video>
+      </footage>
+    </where>
+
+    <when>
+      <images>
+      	<image>
+          <id>85573451</id>
+          <small>85573451_5.jpg</small>
+          <medium>85573451_5.jpg</medium>
+          <credit><![CDATA[85573451, Marta Bevacqua photos/Flickr]]></credit>
+        </image>
+        <image>
+          <id>86378938</id>
+          <small>86378938_10.jpg</small>
+          <medium>86378938_10.jpg</medium>
+          <credit><![CDATA[86378938, cocoip/Flickr]]></credit>
+        </image>
+        <image>
+          <id>87843825</id>
+          <small>87843825_20.jpg</small>
+          <medium>87843825_20.jpg</medium>
+          <credit><![CDATA[87843825, Peter Baker/Flickr]]></credit>
+        </image>
+        <image>
+          <id>85572040</id>
+          <small>85572040_7.jpg</small>
+          <medium>85572040_7.jpg</medium>
+          <credit><![CDATA[85572040, kaipic.com/Flickr]]></credit>
+        </image>
+        <image>
+          <id>86362790</id>
+          <small>86362790_10.jpg</small>
+          <medium>86362790_10.jpg</medium>
+          <credit><![CDATA[86362790, Michael Chrisman/Flickr]]></credit>
+        </image>
+        <image>
+          <id>85571692</id>
+          <small>85571692_10.jpg</small>
+          <medium>85571692_10.jpg</medium>
+          <credit><![CDATA[85571692, Svein Nordrum/Flickr]]></credit>
+        </image>
+        <image>
+          <id>86473552</id>
+          <small>86473552_11.jpg</small>
+          <medium>86473552_11.jpg</medium>
+          <credit><![CDATA[86473552, Robert McColl/Flickr]]></credit>
+        </image>
+        <image>
+          <id>85572979</id>
+          <small>85572979_5.jpg</small>
+          <medium>85572979_5.jpg</medium>
+          <credit><![CDATA[85572979, photo by Anke Peterat/Flickr]]></credit>
+        </image>
+        <image>
+          <id>sb10064777b-001</id>
+          <small>sb10064777b-001.jpg</small>
+          <medium>sb10064777b-001.jpg</medium>
+          <credit><![CDATA[sb10064777b-001, Asger Carlsen/Stone+]]></credit>
+        </image>
+        <image>
+          <id>sb10068948c-001</id>
+          <small>sb10068948c-001.jpg</small>
+          <medium>sb10068948c-001.jpg</medium>
+          <credit><![CDATA[sb10068948c-001, Diane Cook and Len Jenshel/Stone+]]></credit>
+        </image>
+        <image>
+          <id>sb10066679b-001</id>
+          <small>sb10066679b-001.jpg</small>
+          <medium>sb10066679b-001.jpg</medium>
+          <credit><![CDATA[sb10066679b-001, Emily Nathan/The Image Bank]]></credit>
+        </image>
+        <image>
+          <id>sb10063925h-001</id>
+          <small>sb10063925h-001.jpg</small>
+          <medium>sb10063925h-001.jpg</medium>
+          <credit><![CDATA[sb10063925h-001, Julian Benjamin/Stone+]]></credit>
+        </image>
+        <image>
+          <id>JF7012-001</id>
+          <small>JF7012-001.jpg</small>
+          <medium>JF7012-001.jpg</medium>
+          <credit><![CDATA[JF7012-001, Reg Speller/Hulton Archive]]></credit>
+        </image>
+        <image>
+          <id>BD6693-001</id>
+          <small>BD6693-001.jpg</small>
+          <medium>BD6693-001.jpg</medium>
+          <credit><![CDATA[BD6693-001, Tim Simmons/Stone]]></credit>
+        </image>
+        <image>
+          <id>200556738-001</id>
+          <small>200556738-001.jpg</small>
+          <medium>200556738-001.jpg</medium>
+          <credit><![CDATA[200556738-001, Alistair Baker/Photonica]]></credit>
+        </image>
+        <image>
+          <id>200336323-001</id>
+          <small>200336323-001.jpg</small>
+          <medium>200336323-001.jpg</medium>
+          <credit><![CDATA[200336323-001, Christopher Stevenson/Photonica]]></credit>
+        </image>
+        <image>
+          <id>200175116-003</id>
+          <small>200175116-003.jpg</small>
+          <medium>200175116-003.jpg</medium>
+          <credit><![CDATA[200175116-003, Jon Shireman/Stone+]]></credit>
+        </image>
+        <image>
+          <id>200013696-001</id>
+          <small>200013696-001.jpg</small>
+          <medium>200013696-001.jpg</medium>
+          <credit><![CDATA[200013696-001, Tim Flach/Stone+]]></credit>
+        </image>
+        <image>
+          <id>86378965</id>
+          <small>86378965.jpg</small>
+          <medium>86378965.jpg</medium>
+          <credit><![CDATA[86378965, cocoip/Flickr]]></credit>
+        </image>
+        <image>
+          <id>86021839</id>
+          <small>86021839.jpg</small>
+          <medium>86021839.jpg</medium>
+          <credit><![CDATA[86021839, Jack Smith/Flickr]]></credit>
+        </image>
+        <image>
+          <id>85995440</id>
+          <small>85995440.jpg</small>
+          <medium>85995440.jpg</medium>
+          <credit><![CDATA[85995440, sot/Photonica]]></credit>
+        </image>
+        <image>
+          <id>85921263</id>
+          <small>85921263.jpg</small>
+          <medium>85921263.jpg</medium>
+          <credit><![CDATA[85921263, AC NGAI/Flickr]]></credit>
+        </image>
+        <image>
+          <id>85870396</id>
+          <small>85870396.jpg</small>
+          <medium>85870396.jpg</medium>
+          <credit><![CDATA[85870396, Image by Douglas R. Siefken/Flickr]]></credit>
+        </image>
+        <image>
+          <id>85822287</id>
+          <small>85822287.jpg</small>
+          <medium>85822287.jpg</medium>
+          <credit><![CDATA[85822287, photo by 83owl/Flickr]]></credit>
+        </image>
+        <image>
+          <id>85573604</id>
+          <small>85573604.jpg</small>
+          <medium>85573604.jpg</medium>
+          <credit><![CDATA[85573604, Jeff R Clow/Flickr]]></credit>
+        </image>
+        <image>
+          <id>85485250</id>
+          <small>85485250.jpg</small>
+          <medium>85485250.jpg</medium>
+          <credit><![CDATA[85485250, Maria Aguilar Calero/Flickr]]></credit>
+        </image>
+        <image>
+          <id>84753655</id>
+          <small>84753655.jpg</small>
+          <medium>84753655.jpg</medium>
+          <credit><![CDATA[84753655, Jan Stromme/Riser]]></credit>
+        </image>
+        <image>
+          <id>85452640</id>
+          <small>85452640.jpg</small>
+          <medium>85452640.jpg</medium>
+          <credit><![CDATA[85452640, Tea Shafie/Flickr]]></credit>
+        </image>
+        <image>
+          <id>85211663</id>
+          <small>85211663.jpg</small>
+          <medium>85211663.jpg</medium>
+          <credit><![CDATA[85211663, Daniel Novisedlak/Flickr]]></credit>
+        </image>
+        <image>
+          <id>85191519</id>
+          <small>85191519.jpg</small>
+          <medium>85191519.jpg</medium>
+          <credit><![CDATA[85191519, Hello/Flickr]]></credit>
+        </image>
+        <image>
+          <id>85154864</id>
+          <small>85154864.jpg</small>
+          <medium>85154864.jpg</medium>
+          <credit><![CDATA[85154864, Lost America Night Photography/Flickr]]></credit>
+        </image>
+        <image>
+          <id>85153631</id>
+          <small>85153631.jpg</small>
+          <medium>85153631.jpg</medium>
+          <credit><![CDATA[85153631, Simon Crubellier/Flickr]]></credit>
+        </image>
+        <image>
+          <id>85152383</id>
+          <small>85152383.jpg</small>
+          <medium>85152383.jpg</medium>
+          <credit><![CDATA[85152383, Thomas Lottermoser - manganite.net/Flickr]]></credit>
+        </image>
+        <image>
+          <id>85151397</id>
+          <small>85151397.jpg</small>
+          <medium>85151397.jpg</medium>
+          <credit><![CDATA[85151397, Yuki Nakano/Flickr]]></credit>
+        </image>
+        <image>
+          <id>85148811</id>
+          <small>85148811.jpg</small>
+          <medium>85148811.jpg</medium>
+          <credit><![CDATA[85148811, Nanna Lind/Flickr]]></credit>
+        </image>
+        <image>
+          <id>84935891</id>
+          <small>84935891.jpg</small>
+          <medium>84935891.jpg</medium>
+          <credit><![CDATA[84935891, Andre Lichtenberg/Photonica]]></credit>
+        </image>
+        <image>
+          <id>85475984</id>
+          <small>85475984.jpg</small>
+          <medium>85475984.jpg</medium>
+          <credit><![CDATA[84753655, Jan Stromme/Riser]]></credit>
+        </image>
+        <image>
+          <id>84487882</id>
+          <small>84487882.jpg</small>
+          <medium>84487882.jpg</medium>
+          <credit><![CDATA[84487882, Maren Caruso/Stone]]></credit>
+        </image>
+        <image>
+          <id>83149493</id>
+          <small>83149493.jpg</small>
+          <medium>83149493.jpg</medium>
+          <credit><![CDATA[83149493, John Lund/Stone]]></credit>
+        </image>
+        <image>
+          <id>82097506</id>
+          <small>82097506.jpg</small>
+          <medium>82097506.jpg</medium>
+          <credit><![CDATA[82097506, Jorg Greuel/Photonica]]></credit>
+        </image>
+        <image>
+          <id>81606795</id>
+          <small>81606795.jpg</small>
+          <medium>81606795.jpg</medium>
+          <credit><![CDATA[81606795, Car Culture/Collection Mix: Subjects]]></credit>
+        </image>
+        <image>
+          <id>75613835</id>
+          <small>75613835.jpg</small>
+          <medium>75613835.jpg</medium>
+          <credit><![CDATA[Rock and roll musician Elvis Presley performing…, Burbank CA, June 27 1968. 75613835, Michael Ochs Archives/Stringer]]></credit>
+        </image>
+        <image>
+          <id>891675-001</id>
+          <small>891675-001.jpg</small>
+          <medium>891675-001.jpg</medium>
+          <credit><![CDATA[891675-001, Amanda Friedman/Stone+]]></credit>
+        </image>
+        <image>
+          <id>888595-001</id>
+          <small>888595-001.jpg</small>
+          <medium>888595-001.jpg</medium>
+          <credit><![CDATA[888595-001, Angela Wyant/Stone]]></credit>
+        </image>
+        <image>
+          <id>600032-001</id>
+          <small>600032-001.jpg</small>
+          <medium>600032-001.jpg</medium>
+          <credit><![CDATA[600032-001, Don Smetzer/Stone]]></credit>
+        </image>
+        <image>
+          <id>6557-000183</id>
+          <small>6557-000183.jpg</small>
+          <medium>6557-000183.jpg</medium>
+          <credit><![CDATA[6557-000183, Jason Todd/Photonica]]></credit>
+        </image>
+        <image>
+          <id>84540134</id>
+          <small>Obama-Clinton.jpg</small>
+          <medium>Obama-Clinton.jpg</medium>
+          <credit><![CDATA[Barack Obama Campaign Trail, New York City, July 10 2008. 84540134, Charles Ommanney/Contributor]]></credit>
+        </image>
+        <image>
+          <id>sb10063644b-001</id>
+          <small>sb10063644b-001.jpg</small>
+          <medium>sb10063644b-001.jpg</medium>
+          <credit><![CDATA[sb10063644b-001, PIER/Stone]]></credit>
+        </image>
+        <image>
+          <id>6157-000851</id>
+          <small>6157-000851.jpg</small>
+          <medium>6157-000851.jpg</medium>
+          <credit><![CDATA[6157-000851, Carl Rosenstein/Photonica]]></credit>
+        </image>
+        <image>
+          <id>6290-000126</id>
+          <small>6290-000126.jpg</small>
+          <medium>6290-000126.jpg</medium>
+          <credit><![CDATA[6290-000126, Laura Hanifin/Photonica]]></credit>
+        </image>
+        <image>
+          <id>6631-000014</id>
+          <small>6631-000014.jpg</small>
+          <medium>6631-000014.jpg</medium>
+          <credit><![CDATA[6631-000014, Matt Carr/Photonica]]></credit>
+        </image>
+        <image>
+          <id>889666-001</id>
+          <small>889666-001.jpg</small>
+          <medium>889666-001.jpg</medium>
+          <credit><![CDATA[889666-001, Ed Honowitz/Stone]]></credit>
+        </image>
+        <image>
+          <id>82403661</id>
+          <small>82403661.jpg</small>
+          <medium>82403661.jpg</medium>
+          <credit><![CDATA[82403661, Minna Kantonen/Photonica]]></credit>
+        </image>
+        <image>
+          <id>83286139</id>
+          <small>83286139.jpg</small>
+          <medium>83286139.jpg</medium>
+          <credit><![CDATA[83286139, Amy Eckert/Photonica]]></credit>
+        </image>
+        <image>
+          <id>83467064</id>
+          <small>83467064.jpg</small>
+          <medium>83467064.jpg</medium>
+          <credit><![CDATA[83467064, Kevin Trageser/Photonica]]></credit>
+        </image>
+        <image>
+          <id>84182763</id>
+          <small>84182763.jpg</small>
+          <medium>84182763.jpg</medium>
+          <credit><![CDATA[84182763, Michael Blann/Photonica]]></credit>
+        </image>
+        <image>
+          <id>84436302</id>
+          <small>84436302.jpg</small>
+          <medium>84436302.jpg</medium>
+          <credit><![CDATA[84436302, Max Oppenheim/Photonica]]></credit>
+        </image>
+        <image>
+          <id>85148385</id>
+          <small>85148385.jpg</small>
+          <medium>85148385.jpg</medium>
+          <credit><![CDATA[85148385, Justin Ouellette/Flickr]]></credit>
+        </image>
+        <image>
+          <id>85148496</id>
+          <small>85148496.jpg</small>
+          <medium>85148496.jpg</medium>
+          <credit><![CDATA[85148496, Mattia Marchi/Flickr]]></credit>
+        </image>
+        <image>
+          <id>85153937</id>
+          <small>85153937.jpg</small>
+          <medium>85153937.jpg</medium>
+          <credit><![CDATA[85153937, Deniz Tavmen/Flickr]]></credit>
+        </image>
+        <image>
+          <id>85186570</id>
+          <small>85186570.jpg</small>
+          <medium>85186570.jpg</medium>
+          <credit><![CDATA[85186570, joaniemary/Flickr]]></credit>
+        </image>
+        <image>
+          <id>85306791</id>
+          <small>85306791.jpg</small>
+          <medium>85306791.jpg</medium>
+          <credit><![CDATA[85306791, Ragnar Schmuck/Stone]]></credit>
+        </image>
+        <image>
+          <id>85321744</id>
+          <small>85321744.jpg</small>
+          <medium>85321744.jpg</medium>
+          <credit><![CDATA[85321744, arturdebat.tk/Flickr]]></credit>
+        </image>
+        <image>
+          <id>85322922</id>
+          <small>85322922.jpg</small>
+          <medium>85322922.jpg</medium>
+          <credit><![CDATA[85322922, www.maartenwouters.com/Stone+]]></credit>
+        </image>
+        <image>
+          <id>85391227</id>
+          <small>85391227.jpg</small>
+          <medium>85391227.jpg</medium>
+          <credit><![CDATA[85391227, monbetsu hokkaido/Flickr]]></credit>
+        </image>
+        <image>
+          <id>85454135</id>
+          <small>85454135.jpg</small>
+          <medium>85454135.jpg</medium>
+          <credit><![CDATA[85454135, Peter Baker/Flickr]]></credit>
+        </image>
+        <image>
+          <id>85454457</id>
+          <small>85454457.jpg</small>
+          <medium>85454457.jpg</medium>
+          <credit><![CDATA[85454457, Peter Baker/Flickr]]></credit>
+        </image>
+         <image>
+          <id>85460100</id>
+          <small>85460100.jpg</small>
+          <medium>85460100.jpg</medium>
+          <credit><![CDATA[85460100, Ralf Stockmann Photography/Flickr]]></credit>
+        </image>
+        <image>
+          <id>85569500</id>
+          <small>85569500.jpg</small>
+          <medium>85569500.jpg</medium>
+          <credit><![CDATA[85569500, Andy Lacayo/Flickr]]></credit>
+        </image>
+        <image>
+          <id>85902877</id>
+          <small>85902877.jpg</small>
+          <medium>85902877.jpg</medium>
+          <credit><![CDATA[85902877, Leslie F. Miller/Flickr]]></credit>
+        </image>
+        <image>
+          <id>85921211</id>
+          <small>85921211.jpg</small>
+          <medium>85921211.jpg</medium>
+          <credit><![CDATA[85921211, Clara Canepa/Flickr]]></credit>
+        </image>
+        <image>
+          <id>85921340</id>
+          <small>85921340.jpg</small>
+          <medium>85921340.jpg</medium>
+          <credit><![CDATA[85921340, Michael Chrisman/Flickr]]></credit>
+        </image>
+        <image>
+          <id>87138063</id>
+          <small>87138063.jpg</small>
+          <medium>87138063.jpg</medium>
+          <credit><![CDATA[87138063, Ola Jacobsen/Flickr]]></credit>
+        </image>
+        <image>
+          <id>88185633</id>
+          <small>88185633.jpg</small>
+          <medium>88185633.jpg</medium>
+          <credit><![CDATA[88185633, alek lindus/Flickr]]></credit>
+        </image>
+        <image>
+          <id>88673934</id>
+          <small>88673934.jpg</small>
+          <medium>88673934.jpg</medium>
+          <credit><![CDATA[88673934, www.timmelideo.com/Flickr]]></credit>
+        </image>
+        <image>
+          <id>88702717</id>
+          <small>88702717.jpg</small>
+          <medium>88702717.jpg</medium>
+          <credit><![CDATA[88702717, Mark Mann/Stone]]></credit>
+        </image>
+        <image>
+          <id>200184047-001</id>
+          <small>200184047-001.jpg</small>
+          <medium>200184047-001.jpg</medium>
+          <credit><![CDATA[200184047-001, Jasper James/Stone+]]></credit>
+        </image>
+        <image>
+          <id>200184173-001</id>
+          <small>200184173-001.jpg</small>
+          <medium>200184173-001.jpg</medium>
+          <credit><![CDATA[200184173-001, Greg Betz/Stone+]]></credit>
+        </image>
+        <image>
+          <id>200184176-001</id>
+          <small>200184176-001.jpg</small>
+          <medium>200184176-001.jpg</medium>
+          <credit><![CDATA[200184176-001, Greg Betz/Stone+ ]]></credit>
+        </image>
+        <image>
+          <id>200214251-001</id>
+          <small>200214251-001.jpg</small>
+          <medium>200214251-001.jpg</medium>
+          <credit><![CDATA[200214251-001, John Grant/Stone+]]></credit>
+        </image>
+        <image>
+          <id>200241077-002</id>
+          <small>200241077-002.jpg</small>
+          <medium>200241077-002.jpg</medium>
+          <credit><![CDATA[200241077-002, Jeremy Liebman/Stone]]></credit>
+        </image>
+        <image>
+          <id>200327667-001</id>
+          <small>200327667-001.jpg</small>
+          <medium>200327667-001.jpg</medium>
+          <credit><![CDATA[200327667-001, Martien Mulder/Stone]]></credit>
+        </image>
+        <image>
+          <id>200370133-001</id>
+          <small>200370133-001.jpg</small>
+          <medium>200370133-001.jpg</medium>
+          <credit><![CDATA[200370133-001, Anne-Marie Weber/Stone]]></credit>
+        </image>
+        <image>
+          <id>200370313-001</id>
+          <small>200370313-001.jpg</small>
+          <medium>200370313-001.jpg</medium>
+          <credit><![CDATA[200370313-001, Martin Mischkulnig/Photonica]]></credit>
+        </image>
+        <image>
+          <id>200372449-001</id>
+          <small>200372449-001.jpg</small>
+          <medium>200372449-001.jpg</medium>
+          <credit><![CDATA[200372449-001, Zubin Shroff/Stone+]]></credit>
+        </image>
+        <image>
+          <id>200471194-001</id>
+          <small>200471194-001.jpg</small>
+          <medium>200471194-001.jpg</medium>
+          <credit><![CDATA[200471194-001, Chad Baker/Stone]]></credit>
+        </image>
+        <image>
+          <id>200494253-001</id>
+          <small>200494253-001.jpg</small>
+          <medium>200494253-001.jpg</medium>
+          <credit><![CDATA[200494253-001, Nicolas Bertrand/Taxi]]></credit>
+        </image>
+        <image>
+          <id>200514471-001</id>
+          <small>200514471-001.jpg</small>
+          <medium>200514471-001.jpg</medium>
+          <credit><![CDATA[200514471-001, Henry Horenstein/Stone]]></credit>
+        </image>
+        <image>
+          <id>200519793-001</id>
+          <small>200519793-001.jpg</small>
+          <medium>200519793-001.jpg</medium>
+          <credit><![CDATA[200519793-001, Joseph Ford/Photonica]]></credit>
+        </image>
+        <image>
+          <id>200524786-010</id>
+          <small>200524786-010.jpg</small>
+          <medium>200524786-010.jpg</medium>
+          <credit><![CDATA[200524786-010, Max Oppenheim/Stone+]]></credit>
+        </image>
+        <image>
+          <id>CA14935</id>
+          <small>CA14935.jpg</small>
+          <medium>CA14935.jpg</medium>
+          <credit><![CDATA[CA14935, Emmanuel Faure/Taxi]]></credit>
+        </image>
+        <image>
+          <id>CA15169</id>
+          <small>CA15169.jpg</small>
+          <medium>CA15169.jpg</medium>
+          <credit><![CDATA[CA15169, Kamil Vojnar/Taxi]]></credit>
+        </image>
+        <image>
+          <id>CA30551</id>
+          <small>CA30551.jpg</small>
+          <medium>CA30551.jpg</medium>
+          <credit><![CDATA[CA30551, David McGlynn/Taxi]]></credit>
+        </image>
+        <image>
+          <id>sb10066689m-001</id>
+          <small>sb10066689m-001.jpg</small>
+          <medium>sb10066689m-001.jpg</medium>
+          <credit><![CDATA[sb10066689m-001, Chris Windsor/Stone]]></credit>
+        </image>
+        <image>
+          <id>sb10068646f-001</id>
+          <small>sb10068646f-001.jpg</small>
+          <medium>sb10068646f-001.jpg</medium>
+          <credit><![CDATA[sb10068646f-001, Ashley Jouhar/Photonica]]></credit>
+        </image>
+        <image>
+          <id>sb10069214l-001</id>
+          <small>sb10069214l-001.jpg</small>
+          <medium>sb10069214l-001.jpg</medium>
+          <credit><![CDATA[sb10069214l-001, Renold Zergat/Stone]]></credit>
+        </image>
+        </images>
+      <footage>
+        <video>
+          <id>623-15</id>
+          <images>
+            <small>GettyImages_623-15.jpg</small>
+            <medium>GettyImages_623-15.jpg</medium>
+          </images>
+          <flv>GettyImages_623-15_n.flv</flv>
+          <credit><![CDATA[623-15, Image Bank Film]]></credit>
+        </video>
+        <video>
+          <id>683-126</id>
+          <images>
+            <small>GettyImages_683-126.jpg</small>
+            <medium>GettyImages_683-126.jpg</medium>
+          </images>
+          <flv>GettyImages_683-126_B1.flv</flv>
+          <credit><![CDATA[683-126, one80]]></credit>
+        </video>
+          <video>
+          <id>718-126</id>
+          <images>
+            <small>GettyImages_718-126.jpg</small>
+            <medium>GettyImages_718-126.jpg</medium>
+          </images>
+          <flv>GettyImages_718-126_C.flv</flv>
+          <credit><![CDATA[718-126, one80]]></credit>
+        </video>
+          <video>
+          <id>765-57</id>
+          <images>
+            <small>GettyImages_765-57.jpg</small>
+            <medium>GettyImages_765-57.jpg</medium>
+          </images>
+          <flv>GettyImages_765-57_n.flv</flv>
+          <credit><![CDATA[765-57, Image Bank Film]]></credit>
+        </video>
+          <video>
+          <id>777-27</id>
+          <images>
+            <small>GettyImages_777-27.jpg</small>
+            <medium>GettyImages_777-27.jpg</medium>
+          </images>
+          <flv>GettyImages_777-27_B.flv</flv>
+          <credit><![CDATA[777-27, Image Bank Film]]></credit>
+        </video>
+          <video>
+          <id>814-36</id>
+          <images>
+            <small>GettyImages_814-36.jpg</small>
+            <medium>GettyImages_814-36.jpg</medium>
+          </images>
+          <flv>GettyImages_814-36_n.flv</flv>
+          <credit><![CDATA[814-36, one80]]></credit>
+        </video>
+          <video>
+          <id>865-46</id>
+          <images>
+            <small>GettyImages_865-46.jpg</small>
+            <medium>GettyImages_865-46.jpg</medium>
+          </images>
+          <flv>GettyImages_865-46_n1.flv</flv>
+          <credit><![CDATA[865-46, Universal Studios]]></credit>
+        </video>
+         <video>
+          <id>886-62</id>
+          <images>
+            <small>GettyImages_886-62.jpg</small>
+            <medium>GettyImages_886-62.jpg</medium>
+          </images>
+          <flv>GettyImages_886-62_n.flv</flv>
+          <credit><![CDATA[886-62, one80]]></credit>
+        </video>
+         <video>
+          <id>1114-34</id>
+          <images>
+            <small>GettyImages_1114-34.jpg</small>
+            <medium>GettyImages_1114-34.jpg</medium>
+          </images>
+          <flv>GettyImages_1114-34_B.flv</flv>
+          <credit><![CDATA[1114-34, Image Bank Film]]></credit>
+        </video>
+         <video>
+          <id>80823219</id>
+          <images>
+            <small>GettyImages_80823219.jpg</small>
+            <medium>GettyImages_80823219.jpg</medium>
+          </images>
+          <flv>GettyImages_80823219_n.flv</flv>
+          <credit><![CDATA[80823219, Art Wolfe Travels to the Edge]]></credit>
+        </video>
+         <video>
+          <id>81019760</id>
+          <images>
+            <small>GettyImages_81019760.jpg</small>
+            <medium>GettyImages_81019760.jpg</medium>
+          </images>
+          <flv>GettyImages_81019760_n.flv</flv>
+          <credit><![CDATA[81019760, Discovery FootageSource]]></credit>
+        </video>
+         <video>
+          <id>81618215</id>
+          <images>
+            <small>GettyImages_81618215.jpg</small>
+            <medium>GettyImages_81618215.jpg</medium>
+          </images>
+          <flv>GettyImages_81618215_n.flv</flv>
+          <credit><![CDATA[81618215, Art Wolfe Travels to the Edge]]></credit>
+        </video>
+         <video>
+          <id>81618450</id>
+          <images>
+            <small>GettyImages_81618450.jpg</small>
+            <medium>GettyImages_81618450.jpg</medium>
+          </images>
+          <flv>GettyImages_81618450_n.flv</flv>
+          <credit><![CDATA[81618450, Art Wolfe Travels to the Edge]]></credit>
+        </video>
+         <video>
+          <id>81722212</id>
+          <images>
+            <small>GettyImages_81722212.jpg</small>
+            <medium>GettyImages_81722212.jpg</medium>
+          </images>
+          <flv>GettyImages_81722212_n1.flv</flv>
+          <credit><![CDATA[81722212, one80]]></credit>
+        </video>
+         <video>
+          <id>84272208</id>
+          <images>
+            <small>GettyImages_84272208.jpg</small>
+            <medium>GettyImages_84272208.jpg</medium>
+          </images>
+          <flv>GettyImages_84272208_D.flv</flv>
+          <credit><![CDATA[84272208, Image Bank Film ]]></credit>
+        </video>
+         <video>
+          <id>85732725</id>
+          <images>
+            <small>GettyImages_85732725.jpg</small>
+            <medium>GettyImages_85732725.jpg</medium>
+          </images>
+          <flv>GettyImages_85732725_D2.flv</flv>
+          <credit><![CDATA[85732725, one80]]></credit>
+        </video>
+        <video>
+          <id>223-75</id>
+          <images>
+            <small>GettyImages_223-75_n.jpg</small>
+            <medium>GettyImages_223-75_n.jpg</medium>
+          </images>
+          <flv>GettyImages_223-75_n.flv</flv>
+          <credit><![CDATA[223-75, one80]]></credit>
+        </video>
+        <video>
+          <id>299-74</id>
+          <images>
+            <small>GettyImages_299-74_n.jpg</small>
+            <medium>GettyImages_299-74_n.jpg</medium>
+          </images>
+          <flv>GettyImages_299-74_n.flv</flv>
+          <credit><![CDATA[299-74, one80]]></credit>
+        </video>
+          <video>
+          <id>372-30</id>
+          <images>
+            <small>GettyImages_372-30_n.jpg</small>
+            <medium>GettyImages_372-30_n.jpg</medium>
+          </images>
+          <flv>GettyImages_372-30_n.flv</flv>
+          <credit><![CDATA[372-30, one80]]></credit>
+        </video>
+          <video>
+          <id>448-11</id>
+          <images>
+            <small>GettyImages_448-11_n.jpg</small>
+            <medium>GettyImages_448-11_n.jpg</medium>
+          </images>
+          <flv>GettyImages_448-11_n.flv</flv>
+          <credit><![CDATA[448-11, one80]]></credit>
+        </video>
+          <video>
+          <id>567-61</id>
+          <images>
+            <small>GettyImages_567-61_n.jpg</small>
+            <medium>GettyImages_567-61_n.jpg</medium>
+          </images>
+          <flv>GettyImages_567-61_n.</flv>
+          <credit><![CDATA[567-61, one80]]></credit>
+        </video>
+          <video>
+          <id>607-45</id>
+          <images>
+            <small>GettyImages_607-45_n.jpg</small>
+            <medium>GettyImages_607-45_n.jpg</medium>
+          </images>
+          <flv>GettyImages_607-45_n2.flv</flv>
+          <credit><![CDATA[607-45, one80]]></credit>
+        </video>
+          <video>
+          <id>607-48</id>
+          <images>
+            <small>GettyImages_607-48_n.jpg</small>
+            <medium>GettyImages_607-48_n.jpg</medium>
+          </images>
+          <flv>GettyImages_607-48_n.flv</flv>
+          <credit><![CDATA[607-48, one80]]></credit>
+        </video>
+         <video>
+          <id>639-79</id>
+          <images>
+            <small>GettyImages_639-79_n.jpg</small>
+            <medium>GettyImages_639-79_n.jpg</medium>
+          </images>
+          <flv>GettyImages_639-79_n.flv</flv>
+          <credit><![CDATA[639-79, Image Bank Film]]></credit>
+        </video>
+         <video>
+          <id>640-6</id>
+          <images>
+            <small>GettyImages_640-6_n.jpg</small>
+            <medium>GettyImages_640-6_n.jpg</medium>
+          </images>
+          <flv>GettyImages_640-6_n1.flv</flv>
+          <credit><![CDATA[640-6, one80]]></credit>
+        </video>
+         <video>
+          <id>640-68</id>
+          <images>
+            <small>GettyImages_640-68_n.jpg</small>
+            <medium>GettyImages_640-68_n.jpg</medium>
+          </images>
+          <flv>GettyImages_640-68_n.flv</flv>
+          <credit><![CDATA[640-68, one80]]></credit>
+        </video>
+         <video>
+          <id>656-56</id>
+          <images>
+            <small>GettyImages_656-56_n.jpg</small>
+            <medium>GettyImages_656-56_n.jpg</medium>
+          </images>
+          <flv>GettyImages_656-56_n.flv</flv>
+          <credit><![CDATA[656-56, one80]]></credit>
+        </video>
+         <video>
+          <id>660-23</id>
+          <images>
+            <small>GettyImages_660-23_n.jpg</small>
+            <medium>GettyImages_660-23_n.jpg</medium>
+          </images>
+          <flv>GettyImages_660-23_n.flv</flv>
+          <credit><![CDATA[660-23, one80]]></credit>
+        </video>
+         <video>
+          <id>666-36</id>
+          <images>
+            <small>GettyImages_666-36_n.jpg</small>
+            <medium>GettyImages_666-36_n.jpg</medium>
+          </images>
+          <flv>GettyImages_666-36_n.flv</flv>
+          <credit><![CDATA[666-36, one80]]></credit>
+        </video>
+         <video>
+          <id>666-64</id>
+          <images>
+            <small>GettyImages_666-64_n.jpg</small>
+            <medium>GettyImages_666-64_n.jpg</medium>
+          </images>
+          <flv>GettyImages_666-64_n.flv</flv>
+          <credit><![CDATA[666-64, one80]]></credit>
+        </video>
+         <video>
+          <id>669-85</id>
+          <images>
+            <small>GettyImages_669-85_n.jpg</small>
+            <medium>GettyImages_669-85_n.jpg</medium>
+          </images>
+          <flv>GettyImages_669-85_n.flv</flv>
+          <credit><![CDATA[669-85, Image Bank Film ]]></credit>
+        </video>
+         <video>
+          <id>688-56</id>
+          <images>
+            <small>GettyImages_688-56_n.jpg</small>
+            <medium>GettyImages_688-56_n.jpg</medium>
+          </images>
+          <flv>GettyImages_688-56_n.flv</flv>
+          <credit><![CDATA[688-56, one80]]></credit>
+        </video>
+	<video>
+          <id>744-58</id>
+          <images>
+            <small>GettyImages_744-58_n.jpg</small>
+            <medium>GettyImages_744-58_n.jpg</medium>
+          </images>
+          <flv>GettyImages_744-58_n.flv</flv>
+          <credit><![CDATA[744-58, one80]]></credit>
+        </video>
+         <video>
+          <id>753-84</id>
+          <images>
+            <small>GettyImages_753-84_n.jpg</small>
+            <medium>GettyImages_753-84_n.jpg</medium>
+          </images>
+          <flv>GettyImages_753-84_n.flv</flv>
+          <credit><![CDATA[753-84, one80]]></credit>
+        </video>
+         <video>
+          <id>774-37</id>
+          <images>
+            <small>GettyImages_774-37_n.jpg</small>
+            <medium>GettyImages_774-37_n.jpg</medium>
+          </images>
+          <flv>GettyImages_774-37_n.flv</flv>
+          <credit><![CDATA[774-37, Image Bank Film]]></credit>
+        </video>
+         <video>
+          <id>776-57</id>
+          <images>
+            <small>GettyImages_776-57_n.jpg</small>
+            <medium>GettyImages_776-57_n.jpg</medium>
+          </images>
+          <flv>GettyImages_776-57_n.flv</flv>
+          <credit><![CDATA[776-57, one80]]></credit>
+        </video>
+         <video>
+          <id>791-42</id>
+          <images>
+            <small>GettyImages_791-42_n.jpg</small>
+            <medium>GettyImages_791-42_n.jpg</medium>
+          </images>
+          <flv>GettyImages_791-42_n.flv</flv>
+          <credit><![CDATA[791-42, one80]]></credit>
+        </video>
+	<video>
+          <id>805-66</id>
+          <images>
+            <small>GettyImages_805-66_n.jpg</small>
+            <medium>GettyImages_805-66_n.jpg</medium>
+          </images>
+          <flv>GettyImages_805-66_n.flv</flv>
+          <credit><![CDATA[805-66, one80]]></credit>
+        </video>
+         <video>
+          <id>831-13</id>
+          <images>
+            <small>GettyImages_831-13_n.jpg</small>
+            <medium>GettyImages_831-13_n.jpg</medium>
+          </images>
+          <flv>GettyImages_831-13_n.flv</flv>
+          <credit><![CDATA[831-13, one80]]></credit>
+        </video>
+         <video>
+          <id>925-63</id>
+          <images>
+            <small>GettyImages_925-63_n.jpg</small>
+            <medium>GettyImages_925-63_n.jpg</medium>
+          </images>
+          <flv>GettyImages_925-63_n.flv</flv>
+          <credit><![CDATA[925-63, Discovery FootageSource]]></credit>
+        </video>
+         <video>
+          <id>1218-65</id>
+          <images>
+            <small>GettyImages_1218-65_n.jpg</small>
+            <medium>GettyImages_1218-65_n.jpg</medium>
+          </images>
+          <flv>GettyImages_1218-65_n.flv</flv>
+          <credit><![CDATA[1218-65, one80]]></credit>
+        </video>
+         <video>
+          <id>1310-12</id>
+          <images>
+            <small>GettyImages_1310-12_n.jpg</small>
+            <medium>GettyImages_1310-12_n.jpg</medium>
+          </images>
+          <flv>GettyImages_1310-12_n.flv</flv>
+          <credit><![CDATA[1310-12, one80]]></credit>
+        </video>
+	<video>
+          <id>1320-173</id>
+          <images>
+            <small>GettyImages_1320-173_n.jpg</small>
+            <medium>GettyImages_1320-173_n.jpg</medium>
+          </images>
+          <flv>GettyImages_1320-173_n.flv</flv>
+          <credit><![CDATA[1320-173, Discovery FootageSource]]></credit>
+        </video>
+         <video>
+          <id>80823193</id>
+          <images>
+            <small>GettyImages_80823193_n.jpg</small>
+            <medium>GettyImages_80823193_n.jpg</medium>
+          </images>
+          <flv>GettyImages_80823193_n.flv</flv>
+          <credit><![CDATA[80823193, Art Wolfe Travels to the Edge]]></credit>
+        </video>
+         <video>
+          <id>81058995</id>
+          <images>
+            <small>GettyImages_81058995_n.jpg</small>
+            <medium>GettyImages_81058995_n.jpg</medium>
+          </images>
+          <flv>GettyImages_81058995_n.flv</flv>
+          <credit><![CDATA[81058995, one80]]></credit>
+        </video>
+	<video>
+          <id>81059076</id>
+          <images>
+            <small>GettyImages_81059076_n.jpg</small>
+            <medium>GettyImages_81059076_n.jpg</medium>
+          </images>
+          <flv>GettyImages_81059076_n.flv</flv>
+          <credit><![CDATA[81059076, one80]]></credit>
+        </video>
+         <video>
+          <id>84536713</id>
+          <images>
+            <small>GettyImages_84536713_n.jpg</small>
+            <medium>GettyImages_84536713_n.jpg</medium>
+          </images>
+          <flv>GettyImages_84536713_n.flv</flv>
+          <credit><![CDATA[84536713, Image Bank Film]]></credit>
+        </video>
+         <video>
+          <id>84536779</id>
+          <images>
+            <small>GettyImages_84536779_n.jpg</small>
+            <medium>GettyImages_84536779_n.jpg</medium>
+          </images>
+          <flv>GettyImages_84536779_n.flv</flv>
+          <credit><![CDATA[84536779, Image Bank Film]]></credit>
+        </video>
+	<video>
+          <id>88496620</id>
+          <images>
+            <small>GettyImages_88496620_n.jpg</small>
+            <medium>GettyImages_88496620_n.jpg</medium>
+          </images>
+          <flv>GettyImages_88496620_n.flv</flv>
+          <credit><![CDATA[88496620, one80]]></credit>
+        </video>
+         <video>
+          <id>88505262</id>
+          <images>
+            <small>GettyImages_88505262_n.jpg</small>
+            <medium>GettyImages_88505262_n.jpg</medium>
+          </images>
+          <flv>GettyImages_88505262_n.flv</flv>
+          <credit><![CDATA[88505262, Image Bank Film ]]></credit>
+        </video>
+       </footage>
+    </when>
+
+    <why>
+      <images>
+      	<image>
+          <id>87362555</id>
+          <small>87362555_10.jpg</small>
+          <medium>87362555_10.jpg</medium>
+          <credit><![CDATA[87362555, www.victoriatomaschko.com/Flickr]]></credit>
+        </image>
+        <image>
+          <id>85441320</id>
+          <small>85441320_20.jpg</small>
+          <medium>85441320_20.jpg</medium>
+          <credit><![CDATA[85441320, Sam Bloomberg-Rissman/Flickr]]></credit>
+        </image>
+         <image>
+          <id>85468875</id>
+          <small>85468875_101.jpg</small>
+          <medium>85468875_101.jpg</medium>
+          <credit><![CDATA[85468875, Raymond Grasso/Flickr]]></credit>
+        </image>
+        <image>
+          <id>85250589</id>
+          <small>85250589_7.jpg</small>
+          <medium>85250589_7.jpg</medium>
+          <credit><![CDATA[85250589, Morgan Marinoni/Flickr]]></credit>
+        </image>
+        <image>
+          <id>85455423</id>
+          <small>85455423_6.jpg</small>
+          <medium>85455423_6.jpg</medium>
+          <credit><![CDATA[85455423, Kass?/Flickr]]></credit>
+        </image>
+        <image>
+          <id>86230672</id>
+          <small>86230672_5.jpg</small>
+          <medium>86230672_5.jpg</medium>
+          <credit><![CDATA[86230672, Doris Stricher/Flickr]]></credit>
+        </image>
+        <image>
+          <id>85569020</id>
+          <small>85569020_10.jpg</small>
+          <medium>85569020_10.jpg</medium>
+          <credit><![CDATA[85569020, Photography by Charles Bodi www.ridemypony.com/Flickr]]></credit>
+        </image>
+         <image>
+          <id>85570301</id>
+          <small>85570301_10.jpg</small>
+          <medium>85570301_10.jpg</medium>
+          <credit><![CDATA[85570301, Guy Batey/Flickr]]></credit>
+        </image>
+        <image>
+          <id>87914050</id>
+          <small>87914050_5.jpg</small>
+          <medium>87914050_5.jpg</medium>
+          <credit><![CDATA[87914050, Kim Eijdenberg/Flickr]]></credit>
+        </image>
+        <image>
+          <id>sb10070125a-006</id>
+          <small>sb10070125a-006.jpg</small>
+          <medium>sb10070125a-006.jpg</medium>
+          <credit><![CDATA[sb10070125a-006, Annie Collinge/Stone+]]></credit>
+        </image>
+        <image>
+          <id>sb10067453q-001</id>
+          <small>sb10067453q-001.jpg</small>
+          <medium>sb10067453q-001.jpg</medium>
+          <credit><![CDATA[sb10067453q-001, Lyle Owerko/Reportage]]></credit>
+        </image>
+        <image>
+          <id>sb10066490i-001</id>
+          <small>sb10066490i-001.jpg</small>
+          <medium>sb10066490i-001.jpg</medium>
+          <credit><![CDATA[sb10066490i-001, flashfilm/Stone]]></credit>
+        </image>
+         <image>
+          <id>sb10063925n-001</id>
+          <small>sb10063925n-001.jpg</small>
+          <medium>sb10063925n-001.jpg</medium>
+          <credit><![CDATA[sb10063925n-001, Julian Benjamin/Stone+]]></credit>
+        </image>
+        <image>
+          <id>sb10063029b-001</id>
+          <small>sb10063029b-001.jpg</small>
+          <medium>sb10063029b-001.jpg</medium>
+          <credit><![CDATA[sb10063029b-001, Juli Balla/Stone+]]></credit>
+        </image>
+        <image>
+          <id>LA8873-001</id>
+          <small>LA8873-001.jpg</small>
+          <medium>LA8873-001.jpg</medium>
+          <credit><![CDATA[LA8873-001, Matthias Clamer/Stone]]></credit>
+        </image>
+        <image>
+          <id>200552071-001</id>
+          <small>200552071-001.jpg</small>
+          <medium>200552071-001.jpg</medium>
+          <credit><![CDATA[200552071-001, Kate Connell/Photonica]]></credit>
+        </image>
+        <image>
+          <id>200515313-002</id>
+          <small>200515313-002.jpg</small>
+          <medium>200515313-002.jpg</medium>
+          <credit><![CDATA[200515313-002, Todd Warnock/Stone+]]></credit>
+        </image>
+         <image>
+          <id>200486620-003</id>
+          <small>200486620-003.jpg</small>
+          <medium>200486620-003.jpg</medium>
+          <credit><![CDATA[200486620-003, Matthias Clamer/Stone+]]></credit>
+        </image>
+        <image>
+          <id>200479564-001</id>
+          <small>200479564-001.jpg</small>
+          <medium>200479564-001.jpg</medium>
+          <credit><![CDATA[200479564-001, Matthias Clamer/Stone+]]></credit>
+        </image>
+        <image>
+          <id>200345418-001</id>
+          <small>200345418-001.jpg</small>
+          <medium>200345418-001.jpg</medium>
+          <credit><![CDATA[200345418-001, Johannes Kroemer/Photonica]]></credit>
+        </image>
+        <image>
+          <id>200179927-001</id>
+          <small>200179927-001.jpg</small>
+          <medium>200179927-001.jpg</medium>
+          <credit><![CDATA[200179927-001, Robert Warren/Stone+]]></credit>
+        </image>
+        <image>
+          <id>84787933</id>
+          <small>84787933.jpg</small>
+          <medium>84787933.jpg</medium>
+          <credit><![CDATA[84787933, Marvi Lacar/Reportage]]></credit>
+        </image>
+         <image>
+          <id>200177444-001</id>
+          <small>200177444-001.jpg</small>
+          <medium>200177444-001.jpg</medium>
+          <credit><![CDATA[200177444-001, Erik Von Weber/Stone+]]></credit>
+        </image>
+        <image>
+          <id>200135255-001</id>
+          <small>200135255-001.jpg</small>
+          <medium>200135255-001.jpg</medium>
+          <credit><![CDATA[200135255-001, Jens Lucking/Stone+]]></credit>
+        </image>
+        <image>
+          <id>200068738-001</id>
+          <small>200068738-001.jpg</small>
+          <medium>200068738-001.jpg</medium>
+          <credit><![CDATA[200068738-001, John Midgley/Stone+]]></credit>
+        </image>
+        <image>
+          <id>200068737-001</id>
+          <small>200068737-001.jpg</small>
+          <medium>200068737-001.jpg</medium>
+          <credit><![CDATA[200068737-001, John Midgley/Stone+]]></credit>
+        </image>
+        <image>
+          <id>86148656</id>
+          <small>86148656.jpg</small>
+          <medium>86148656.jpg</medium>
+          <credit><![CDATA[86148656, Samuel Lara Hernández/Flickr]]></credit>
+        </image>
+         <image>
+          <id>86068538</id>
+          <small>86068538.jpg</small>
+          <medium>86068538.jpg</medium>
+          <credit><![CDATA[86068538, Henri Silberman/Workbook Stock]]></credit>
+        </image>
+        <image>
+          <id>86061301</id>
+          <small>86061301.jpg</small>
+          <medium>86061301.jpg</medium>
+          <credit><![CDATA[86061301, Dennis Hallinan/Hulton Archive]]></credit>
+        </image>
+        <image>
+          <id>85572273</id>
+          <small>85572273.jpg</small>
+          <medium>85572273.jpg</medium>
+          <credit><![CDATA[85572273, Andrew LeCates/Flickr]]></credit>
+        </image>
+         <image>
+          <id>85456422</id>
+          <small>85456422.jpg</small>
+          <medium>85456422.jpg</medium>
+          <credit><![CDATA[85456422, Photography by Muadh Mustafa Bin Abdullatif/Flickr]]></credit>
+        </image>
+        <image>
+          <id>85393075</id>
+          <small>85393075.jpg</small>
+          <medium>85393075.jpg</medium>
+          <credit><![CDATA[85393075, Photo by Andy Frazer/Flickr]]></credit>
+        </image>
+        <image>
+          <id>85188736</id>
+          <small>85188736.jpg</small>
+          <medium>85188736.jpg</medium>
+          <credit><![CDATA[85188736, only because mushroom asked me to/Flickr]]></credit>
+        </image>
+        <image>
+          <id>85176576</id>
+          <small>85176576.jpg</small>
+          <medium>85176576.jpg</medium>
+          <credit><![CDATA[85176576, your personal camera obscura/Flickr]]></credit>
+        </image>
+        <image>
+          <id>85151139</id>
+          <small>85151139.jpg</small>
+          <medium>85151139.jpg</medium>
+          <credit><![CDATA[85151139, Red de Leon/Flickr]]></credit>
+        </image>
+         <image>
+          <id>85123898</id>
+          <small>85123898.jpg</small>
+          <medium>85123898.jpg</medium>
+          <credit><![CDATA[85123898, Image by Kevin Osborn/Flickr]]></credit>
+        </image>
+        <image>
+          <id>85042684</id>
+          <small>85042684.jpg</small>
+          <medium>85042684.jpg</medium>
+          <credit><![CDATA[85042684, Adam Weiss/Photonica]]></credit>
+        </image>
+        <image>
+          <id>83888585</id>
+          <small>83888585.jpg</small>
+          <medium>83888585.jpg</medium>
+          <credit><![CDATA[83888585, Cal Crary/Stone]]></credit>
+        </image>
+        <image>
+          <id>3142-000094</id>
+          <small>3142-000094.jpg</small>
+          <medium>3142-000094.jpg</medium>
+          <credit><![CDATA[3142-000094, Jan Hakan Dahlstrom/Photonica]]></credit>
+        </image>
+        <image>
+          <id>82844878</id>
+          <small>82844878.jpg</small>
+          <medium>82844878.jpg</medium>
+          <credit><![CDATA[82844878, De Agostini Picture Library]]></credit>
+        </image>
+        <image>
+          <id>82793389</id>
+          <small>82793389-RT.jpg</small>
+          <medium>82793389-RT.jpg</medium>
+          <credit><![CDATA[82793389, Keith Hume/Illustration Works]]></credit>
+        </image>
+        <image>
+          <id>82770189</id>
+          <small>82770189.jpg</small>
+          <medium>82770189.jpg</medium>
+          <credit><![CDATA[82770189, Michael Blann/Lifesize]]></credit>
+        </image>
+        <image>
+          <id>2663675</id>
+          <small>2663675.jpg</small>
+          <medium>2663675.jpg</medium>
+          <credit><![CDATA[Salvador Dali, Paris, November 211973. 2663675, Keystone/Staff]]></credit>
+        </image>
+        <image>
+          <id>6551-000327</id>
+          <small>6551-000327.jpg</small>
+          <medium>6551-000327.jpg</medium>
+          <credit><![CDATA[6551-000327, Raimund Koch/Photonica]]></credit>
+        </image>
+         <image>
+          <id>6476-000227a</id>
+          <small>6476-000227a.jpg</small>
+          <medium>6476-000227a.jpg</medium>
+          <credit><![CDATA[6476-000227a, John-Francis Bourke/Photonica]]></credit>
+        </image>
+        <image>
+          <id>6321-000230</id>
+          <small>6321-000230.jpg</small>
+          <medium>6321-000230.jpg</medium>
+          <credit><![CDATA[6321-000230, Bruno Ehrs/Photonica]]></credit>
+        </image>
+        <image>
+          <id>3701-008739</id>
+          <small>3701-008739.jpg</small>
+          <medium>3701-008739.jpg</medium>
+          <credit><![CDATA[3701-008739, VEER George Diebold/Photonica]]></credit>
+        </image>
+        <image>
+          <id>83001766</id>
+          <small>83001766.jpg</small>
+          <medium>83001766.jpg</medium>
+          <credit><![CDATA[3142-000094, Jan Hakan Dahlstrom/Photonica]]></credit>
+        </image>
+        <image>
+          <id>3289-000015</id>
+          <small>3289-000015.jpg</small>
+          <medium>3289-000015.jpg</medium>
+          <credit><![CDATA[3289-000015, Rod Morris/Photonica]]></credit>
+        </image>
+        <image>
+          <id>6117-000191</id>
+          <small>6117-000191.jpg</small>
+          <medium>6117-000191.jpg</medium>
+          <credit><![CDATA[6117-000191, David Zaitz/Photonica]]></credit>
+        </image>
+        <image>
+          <id>6117-000992</id>
+          <small>6117-000992.jpg</small>
+          <medium>6117-000992.jpg</medium>
+          <credit><![CDATA[6117-000992, David Zaitz/Photonica]]></credit>
+        </image>
+        <image>
+          <id>6271-000194</id>
+          <small>6271-000194.jpg</small>
+          <medium>6271-000194.jpg</medium>
+          <credit><![CDATA[6271-000194, Kamil Vojnar/Photonica]]></credit>
+        </image>
+        <image>
+          <id>6544-000045</id>
+          <small>6544-000045.jpg</small>
+          <medium>6544-000045.jpg</medium>
+          <credit><![CDATA[6544-000045, Silvia Otte/Photonica]]></credit>
+        </image>
+         <image>
+          <id>81728633</id>
+          <small>81728633.jpg</small>
+          <medium>81728633.jpg</medium>
+          <credit><![CDATA[81728633, Philipp Nemenz/Taxi]]></credit>
+        </image>
+        <image>
+          <id>81867585</id>
+          <small>81867585.jpg</small>
+          <medium>81867585.jpg</medium>
+          <credit><![CDATA[81867585, Henrik Sorensen/Stone+]]></credit>
+        </image>
+        <image>
+          <id>82249566</id>
+          <small>82249566.jpg</small>
+          <medium>82249566.jpg</medium>
+          <credit><![CDATA[82249566, Nick Bowers/Stone]]></credit>
+        </image>
+        <image>
+          <id>82678426</id>
+          <small>82678426.jpg</small>
+          <medium>82678426.jpg</medium>
+          <credit><![CDATA[82678426, Michael Duva/Photonica]]></credit>
+        </image>
+        <image>
+          <id>84011117</id>
+          <small>84011117.jpg</small>
+          <medium>84011117.jpg</medium>
+          <credit><![CDATA[84011117, 4 Eyes Photography/Photonica]]></credit>
+        </image>
+        <image>
+          <id>85127633</id>
+          <small>85127633.jpg</small>
+          <medium>85127633.jpg</medium>
+          <credit><![CDATA[85127633, Dan Bass/Flickr]]></credit>
+        </image>
+        <image>
+          <id>85152693</id>
+          <small>85152693.jpg</small>
+          <medium>85152693.jpg</medium>
+          <credit><![CDATA[85152693, tedfoo/Flickr]]></credit>
+        </image>
+        <image>
+          <id>85154450</id>
+          <small>85154450.jpg</small>
+          <medium>85154450.jpg</medium>
+          <credit><![CDATA[85154450, Mark A Paulda/Flickr]]></credit>
+        </image>
+        <image>
+          <id>85155611</id>
+          <small>85155611.jpg</small>
+          <medium>85155611.jpg</medium>
+          <credit><![CDATA[85155611, Robbie Augspurger/Flickr]]></credit>
+        </image>
+        <image>
+          <id>85186613</id>
+          <small>85186613.jpg</small>
+          <medium>85186613.jpg</medium>
+          <credit><![CDATA[85186613, Susanna Erkheikki/Flickr]]></credit>
+        </image>
+         <image>
+          <id>85320118</id>
+          <small>85320118.jpg</small>
+          <medium>85320118.jpg</medium>
+          <credit><![CDATA[85320118, Mika Watanabe/Flickr]]></credit>
+        </image>
+        <image>
+          <id>85414430</id>
+          <small>85414430.jpg</small>
+          <medium>85414430.jpg</medium>
+          <credit><![CDATA[85414430, Carrie Taylor/Flickr]]></credit>
+        </image>
+        <image>
+          <id>85476362</id>
+          <small>85476362.jpg</small>
+          <medium>85476362.jpg</medium>
+          <credit><![CDATA[85476362, Eddy Joaquim/Flickr]]></credit>
+        </image>
+        <image>
+          <id>85795947</id>
+          <small>85795947.jpg</small>
+          <medium>85795947.jpg</medium>
+          <credit><![CDATA[85795947, vAns/Flickr]]></credit>
+        </image>
+        <image>
+          <id>85822885</id>
+          <small>85822885.jpg</small>
+          <medium>85822885.jpg</medium>
+          <credit><![CDATA[85822885, Jon Cartwright/Flickr]]></credit>
+        </image>
+        <image>
+          <id>85834476</id>
+          <small>85834476.jpg</small>
+          <medium>85834476.jpg</medium>
+          <credit><![CDATA[85834476, Marco Casse/Flickr]]></credit>
+        </image>
+        <image>
+          <id>85921381</id>
+          <small>85921381.jpg</small>
+          <medium>85921381.jpg</medium>
+          <credit><![CDATA[85921381, Michael Chrisman/Flickr]]></credit>
+        </image>
+        <image>
+          <id>86002373</id>
+          <small>86002373.jpg</small>
+          <medium>86002373.jpg</medium>
+          <credit><![CDATA[86002373, Alexander Nicholson/Taxi]]></credit>
+        </image>
+        <image>
+          <id>86086521</id>
+          <small>86086521.jpg</small>
+          <medium>86086521.jpg</medium>
+          <credit><![CDATA[86086521, Matthew Dinkel/Flickr]]></credit>
+        </image>
+        <image>
+          <id>86274837</id>
+          <small>86274837.jpg</small>
+          <medium>86274837.jpg</medium>
+          <credit><![CDATA[86274837, Jason Koxvold/Flickr]]></credit>
+        </image>
+        <image>
+          <id>87272659</id>
+          <small>87272659.jpg</small>
+          <medium>87272659.jpg</medium>
+          <credit><![CDATA[87272659, Paul Taylor/Stone]]></credit>
+        </image>
+         <image>
+          <id>88387085</id>
+          <small>88387085.jpg</small>
+          <medium>88387085.jpg</medium>
+          <credit><![CDATA[88387085, Gustaf Eriksson - www.gustaferiksson.com/Flickr]]></credit>
+        </image>
+        <image>
+          <id>88470720</id>
+          <small>88470720.jpg</small>
+          <medium>88470720.jpg</medium>
+          <credit><![CDATA[88470720, Lost America Night Photography/Flickr]]></credit>
+        </image>
+        <image>
+          <id>88498834</id>
+          <small>88498834.jpg</small>
+          <medium>88498834.jpg</medium>
+          <credit><![CDATA[88498834, jon madison/Flickr]]></credit>
+        </image>
+        <image>
+          <id>88783415</id>
+          <small>88783415.jpg</small>
+          <medium>88783415.jpg</medium>
+          <credit><![CDATA[88783415, pannaphotos/Flickr]]></credit>
+        </image>
+          <image>
+          <id>200018831-001</id>
+          <small>200018831-001.jpg</small>
+          <medium>200018831-001.jpg</medium>
+          <credit><![CDATA[200018831-001, Pete Turner/Stone]]></credit>
+        </image>
+        <image>
+          <id>200027154-002</id>
+          <small>200027154-002.jpg</small>
+          <medium>200027154-002.jpg</medium>
+          <credit><![CDATA[200027154-002, Adri Berger/Stone+]]></credit>
+        </image>
+        <image>
+          <id>200182595-001</id>
+          <small>200182595-001.jpg</small>
+          <medium>200182595-001.jpg</medium>
+          <credit><![CDATA[200182595-001, Masaaki Toyoura/Taxi]]></credit>
+        </image>
+        <image>
+          <id>200194831-001</id>
+          <small>200194831-001.jpg</small>
+          <medium>200194831-001.jpg</medium>
+          <credit><![CDATA[200194831-001, Rana Faure/Taxi]]></credit>
+        </image>
+        <image>
+          <id>200214511-001</id>
+          <small>200214511-001.jpg</small>
+          <medium>200214511-001.jpg</medium>
+          <credit><![CDATA[200214511-001, Tara Moore/Stone+]]></credit>
+        </image>
+         <image>
+          <id>200277200-001</id>
+          <small>200277200-001.jpg</small>
+          <medium>200277200-001.jpg</medium>
+          <credit><![CDATA[200277200-001, David Prince/Stone]]></credit>
+        </image>
+        <image>
+          <id>200344020-001</id>
+          <small>200344020-001.jpg</small>
+          <medium>200344020-001.jpg</medium>
+          <credit><![CDATA[200344020-001, Alan Powdrill/Stone]]></credit>
+        </image>
+        <image>
+          <id>200354450-001</id>
+          <small>200354450-001.jpg</small>
+          <medium>200354450-001.jpg</medium>
+          <credit><![CDATA[200354450-001, Dietmar Busse/Taxi]]></credit>
+        </image>
+        <image>
+          <id>200355334-005</id>
+          <small>200355334-005.jpg</small>
+          <medium>200355334-005.jpg</medium>
+          <credit><![CDATA[200355334-005, Siri Stafford/Stone+]]></credit>
+        </image>
+        <image>
+          <id>200360656-002</id>
+          <small>200360656-002.jpg</small>
+          <medium>200360656-002.jpg</medium>
+          <credit><![CDATA[200360656-002, Sam Bassett/Stone+]]></credit>
+        </image>
+        <image>
+          <id>200370129-001</id>
+          <small>200370129-001.jpg</small>
+          <medium>200370129-001.jpg</medium>
+          <credit><![CDATA[200370129-001, Anne-Marie Weber/Stone]]></credit>
+        </image>
+        <image>
+          <id>200483516-001</id>
+          <small>200483516-001.jpg</small>
+          <medium>200483516-001.jpg</medium>
+          <credit><![CDATA[200483516-001, Jonathan Kantor/Taxi]]></credit>
+        </image>
+        <image>
+          <id>BA06015</id>
+          <small>BA06015.jpg</small>
+          <medium>BA06015.jpg</medium>
+          <credit><![CDATA[BA06015, Ian McKinnell/Taxi]]></credit>
+        </image>
+        <image>
+          <id>EC7346-001</id>
+          <small>EC7346-001.jpg</small>
+          <medium>EC7346-001.jpg</medium>
+          <credit><![CDATA[EC7346-001, Sian Kennedy/Stone]]></credit>
+        </image>
+         <image>
+          <id>RA00074</id>
+          <small>RA00074.jpg</small>
+          <medium>RA00074.jpg</medium>
+          <credit><![CDATA[RA00074, Dana Edmunds/Taxi]]></credit>
+        </image>
+        <image>
+          <id>sb10063405w-001</id>
+          <small>sb10063405w-001.jpg</small>
+          <medium>sb10063405w-001.jpg</medium>
+          <credit><![CDATA[sb10063405w-001, Simon Weller/Photonica]]></credit>
+        </image>
+        <image>
+          <id>sb10063776f-001</id>
+          <small>sb10063776f-001.jpg</small>
+          <medium>sb10063776f-001.jpg</medium>
+          <credit><![CDATA[sb10063776f-001, Dwight Eschliman/Stone]]></credit>
+        </image>
+        <image>
+          <id>sb10065433f-001</id>
+          <small>sb10065433f-001.jpg</small>
+          <medium>sb10065433f-001.jpg</medium>
+          <credit><![CDATA[sb10065433f-001, Michael Blann/Stone+]]></credit>
+        </image>
+    	</images>
+      <footage>
+        <video>
+          <id>559-135</id>
+          <images>
+            <small>GettyImages_559-135.jpg</small>
+            <medium>GettyImages_559-135.jpg</medium>
+          </images>
+          <flv>GettyImages_559-135_n.flv</flv>
+          <credit><![CDATA[559-135, Image Bank Film]]></credit>
+        </video>
+        <video>
+          <id>605-21</id>
+          <images>
+            <small>GettyImages_605-21.jpg</small>
+            <medium>GettyImages_605-21.jpg</medium>
+          </images>
+          <flv>GettyImages_605-21_n1.flv</flv>
+          <credit><![CDATA[605-21, Image Bank Film]]></credit>
+        </video>
+          <video>
+          <id>667-74</id>
+          <images>
+            <small>GettyImages_667-74.jpg</small>
+            <medium>GettyImages_667-74.jpg</medium>
+          </images>
+          <flv>GettyImages_667-74_n.flv</flv>
+          <credit><![CDATA[667-74, Image Bank Film]]></credit>
+        </video>
+          <video>
+          <id>680-64</id>
+          <images>
+            <small>GettyImages_680-64.jpg</small>
+            <medium>GettyImages_680-64.jpg</medium>
+          </images>
+          <flv>GettyImages_680-64_B2.flv</flv>
+          <credit><![CDATA[680-64, one80]]></credit>
+        </video>
+          <video>
+          <id>777-1</id>
+          <images>
+            <small>GettyImages_777-1.jpg</small>
+            <medium>GettyImages_777-1.jpg</medium>
+          </images>
+          <flv>GettyImages_777-1_n.flv</flv>
+          <credit><![CDATA[777-1, Image Bank Film ]]></credit>
+        </video>
+          <video>
+          <id>880-35</id>
+          <images>
+            <small>GettyImages_880-35.jpg</small>
+            <medium>GettyImages_880-35.jpg</medium>
+          </images>
+          <flv>GettyImages_880-35_n.flv</flv>
+          <credit><![CDATA[880-35, Image Bank Film]]></credit>
+        </video>
+          <video>
+          <id>959-111</id>
+          <images>
+            <small>GettyImages_959-111.jpg</small>
+            <medium>GettyImages_959-111.jpg</medium>
+          </images>
+          <flv>GettyImages_959-111_n.flv</flv>
+          <credit><![CDATA[959-111, one80]]></credit>
+        </video>
+         <video>
+          <id>999-12</id>
+          <images>
+            <small>GettyImages_999-12.jpg</small>
+            <medium>GettyImages_999-12.jpg</medium>
+          </images>
+          <flv>GettyImages_999-12_n.flv</flv>
+          <credit><![CDATA[999-12, one80]]></credit>
+        </video>
+         <video>
+          <id>1132-72</id>
+          <images>
+            <small>GettyImages_1132-72.jpg</small>
+            <medium>GettyImages_1132-72.jpg</medium>
+          </images>
+          <flv>GettyImages_1132-72_C1.flv</flv>
+          <credit><![CDATA[1132-72, Fluorescent Films Ltd]]></credit>
+        </video>
+         <video>
+          <id>80823290</id>
+          <images>
+            <small>GettyImages_80823290.jpg</small>
+            <medium>GettyImages_80823290.jpg</medium>
+          </images>
+          <flv>GettyImages_80823290_B.flv</flv>
+          <credit><![CDATA[80823290, Art Wolfe Travels to the Edge]]></credit>
+        </video>
+         <video>
+          <id>81477852</id>
+          <images>
+            <small>GettyImages_81477852.jpg</small>
+            <medium>GettyImages_81477852.jpg</medium>
+          </images>
+          <flv>GettyImages_81477852_B.flv</flv>
+          <credit><![CDATA[81477852, Art Wolfe Travels to the Edge]]></credit>
+        </video>
+         <video>
+          <id>81615413</id>
+          <images>
+            <small>GettyImages_81615413.jpg</small>
+            <medium>GettyImages_81615413.jpg</medium>
+          </images>
+          <flv>GettyImages_81615413_n.flv</flv>
+          <credit><![CDATA[81615413, Art Wolfe Travels to the Edge]]></credit>
+        </video>
+         <video>
+          <id>83574320</id>
+          <images>
+            <small>GettyImages_83574320.jpg</small>
+            <medium>GettyImages_83574320.jpg</medium>
+          </images>
+          <flv>GettyImages_83574320_E1.flv</flv>
+          <credit><![CDATA[83574320, Image Bank Film]]></credit>
+        </video>
+         <video>
+          <id>84536741</id>
+          <images>
+            <small>GettyImages_84536741.jpg</small>
+            <medium>GettyImages_84536741.jpg</medium>
+          </images>
+          <flv>GettyImages_84536741_n.flv</flv>
+          <credit><![CDATA[84536741, Image Bank Film]]></credit>
+        </video>
+         <video>
+          <id>85266481</id>
+          <images>
+            <small>GettyImages_85266481.jpg</small>
+            <medium>GettyImages_85266481.jpg</medium>
+          </images>
+          <flv>GettyImages_85266481_B.flv</flv>
+          <credit><![CDATA[85266481, Image Bank Film]]></credit>
+        </video>
+         <video>
+          <id>85383625</id>
+          <images>
+            <small>GettyImages_85383625.jpg</small>
+            <medium>GettyImages_85383625.jpg</medium>
+          </images>
+          <flv>GettyImages_85383625_B.flv</flv>
+          <credit><![CDATA[85383625, one80]]></credit>
+          </video>
+        <video>
+          <id>40-67</id>
+          <images>
+            <small>GettyImages_40-67_n.jpg</small>
+            <medium>GettyImages_40-67_n.jpg</medium>
+          </images>
+          <flv>GettyImages_40-67_n.flv</flv>
+          <credit><![CDATA[40-67, Image Bank Film]]></credit>
+        </video>
+        <video>
+          <id>181-56</id>
+          <images>
+            <small>GettyImages_181-56_n.jpg</small>
+            <medium>GettyImages_181-56_n.jpg</medium>
+          </images>
+          <flv>GettyImages_181-56_n.flv</flv>
+          <credit><![CDATA[181-56, Image Bank Film]]></credit>
+        </video>
+          <video>
+          <id>249-6</id>
+          <images>
+            <small>GettyImages_249-6_n.jpg</small>
+            <medium>GettyImages_249-6_n.jpg</medium>
+          </images>
+          <flv>GettyImages_249-6_n.flv</flv>
+          <credit><![CDATA[249-6, one80]]></credit>
+        </video>
+          <video>
+          <id>250-6</id>
+          <images>
+            <small>GettyImages_250-6_n.jpg</small>
+            <medium>GettyImages_250-6_n.jpg</medium>
+          </images>
+          <flv>GettyImages_250-6_n.flv</flv>
+          <credit><![CDATA[250-6, one80]]></credit>
+        </video>
+          <video>
+          <id>299-33</id>
+          <images>
+            <small>GettyImages_299-33_n.jpg</small>
+            <medium>GettyImages_299-33_n.jpg</medium>
+          </images>
+          <flv>GettyImages_299-33_n.flv</flv>
+          <credit><![CDATA[299-33, one80]]></credit>
+        </video>
+          <video>
+          <id>305-30</id>
+          <images>
+            <small>GettyImages_305-30_n.jpg</small>
+            <medium>GettyImages_305-30_n.jpg</medium>
+          </images>
+          <flv>GettyImages_305-30_n.flv</flv>
+          <credit><![CDATA[305-30, one80]]></credit>
+        </video>
+          <video>
+          <id>526-36</id>
+          <images>
+            <small>GettyImages_526-36_n.jpg</small>
+            <medium>GettyImages_526-36_n.jpg</medium>
+          </images>
+          <flv>GettyImages_526-36_n.flv</flv>
+          <credit><![CDATA[526-36, one80]]></credit>
+        </video>
+         <video>
+          <id>562-131</id>
+          <images>
+            <small>GettyImages_562-131_n.jpg</small>
+            <medium>GettyImages_562-131_n.jpg</medium>
+          </images>
+          <flv>GettyImages_562-131_n.flv</flv>
+          <credit><![CDATA[562-131, Archive Films]]></credit>
+        </video>
+         <video>
+          <id>605-81</id>
+          <images>
+            <small>GettyImages_605-81_n.jpg</small>
+            <medium>GettyImages_605-81_n.jpg</medium>
+          </images>
+          <flv>GettyImages_605-81_n.flv</flv>
+          <credit><![CDATA[605-81, one80]]></credit>
+        </video>
+         <video>
+          <id>629-80</id>
+          <images>
+            <small>GettyImages_629-80_n.jpg</small>
+            <medium>GettyImages_629-80_n.jpg</medium>
+          </images>
+          <flv>GettyImages_629-80_n.flv</flv>
+          <credit><![CDATA[629-80, one80]]></credit>
+        </video>
+         <video>
+          <id>656-31</id>
+          <images>
+            <small>GettyImages_656-31_n.jpg</small>
+            <medium>GettyImages_656-31_n.jpg</medium>
+          </images>
+          <flv>GettyImages_656-31_n1.flv</flv>
+          <credit><![CDATA[656-31, one80]]></credit>
+        </video>
+         <video>
+          <id>657-12</id>
+          <images>
+            <small>GettyImages_657-12_n.jpg</small>
+            <medium>GettyImages_657-12_n.jpg</medium>
+          </images>
+          <flv>GettyImages_657-12_n.flv</flv>
+          <credit><![CDATA[657-12, one80]]></credit>
+        </video>
+         <video>
+          <id>674-50</id>
+          <images>
+            <small>GettyImages_674-50_n.jpg</small>
+            <medium>GettyImages_674-50_n.jpg</medium>
+          </images>
+          <flv>GettyImages_674-50_n2.flv</flv>
+          <credit><![CDATA[674-50, one80]]></credit>
+        </video>
+         <video>
+          <id>678-86</id>
+          <images>
+            <small>GettyImages_678-86_n.jpg</small>
+            <medium>GettyImages_678-86_n.jpg</medium>
+          </images>
+          <flv>GettyImages_678-86_n1.flv</flv>
+          <credit><![CDATA[678-86, one80]]></credit>
+        </video>
+         <video>
+          <id>713-4</id>
+          <images>
+            <small>GettyImages_713-4_n.jpg</small>
+            <medium>GettyImages_713-4_n.jpg</medium>
+          </images>
+          <flv>GettyImages_713-4_n.flv</flv>
+          <credit><![CDATA[713-4, one80]]></credit>
+        </video>
+         <video>
+          <id>743-73</id>
+          <images>
+            <small>GettyImages_743-73_n.jpg</small>
+            <medium>GettyImages_743-73_n.jpg</medium>
+          </images>
+          <flv>GettyImages_743-73_n.flv</flv>
+          <credit><![CDATA[743-73, Image Bank Film]]></credit>
+          </video>
+	<video>
+          <id>753-74</id>
+          <images>
+            <small>GettyImages_753-74_n.jpg</small>
+            <medium>GettyImages_753-74_n.jpg</medium>
+          </images>
+          <flv>GettyImages_753-74_n.flv</flv>
+          <credit><![CDATA[753-74, one80]]></credit>
+        </video>
+        <video>
+          <id>769-26</id>
+          <images>
+            <small>GettyImages_769-26_n.jpg</small>
+            <medium>GettyImages_769-26_n.jpg</medium>
+          </images>
+          <flv>GettyImages_769-26_n.flv</flv>
+          <credit><![CDATA[769-26, one80]]></credit>
+        </video>
+          <video>
+          <id>1024-163</id>
+          <images>
+            <small>GettyImages_1024-163_n.jpg</small>
+            <medium>GettyImages_1024-163_n.jpg</medium>
+          </images>
+          <flv>GettyImages_1024-163_n.flv</flv>
+          <credit><![CDATA[1024-163, one80]]></credit>
+        </video>
+          <video>
+          <id>1056-30</id>
+          <images>
+            <small>GettyImages_1056-30_n.jpg</small>
+            <medium>GettyImages_1056-30_n.jpg</medium>
+          </images>
+          <flv>GettyImages_1056-30_n.flv</flv>
+          <credit><![CDATA[1056-30, one80]]></credit>
+        </video>
+          <video>
+          <id>1374-63</id>
+          <images>
+            <small>GettyImages_1374-63_n.jpg</small>
+            <medium>GettyImages_1374-63_n.jpg</medium>
+          </images>
+          <flv>GettyImages_1374-63_n.flv</flv>
+          <credit><![CDATA[1374-63, Art Wolfe Travels to the Edge]]></credit>
+        </video>
+          <video>
+          <id>1409-2</id>
+          <images>
+            <small>GettyImages_1409-2_n.jpg</small>
+            <medium>GettyImages_1409-2_n.jpg</medium>
+          </images>
+          <flv>GettyImages_1409-2_n.flv</flv>
+          <credit><![CDATA[1409-2, one80]]></credit>
+        </video>
+          <video>
+          <id>82102255</id>
+          <images>
+            <small>GettyImages_82102255_n.jpg</small>
+            <medium>GettyImages_82102255_n.jpg</medium>
+          </images>
+          <flv>GettyImages_82102255_n.flv</flv>
+          <credit><![CDATA[82102255, Image Bank Film]]></credit>
+        </video>
+         <video>
+          <id>83106104</id>
+          <images>
+            <small>GettyImages_83106104_n.jpg</small>
+            <medium>GettyImages_83106104_n.jpg</medium>
+          </images>
+          <flv>GettyImages_83106104_n.flv</flv>
+          <credit><![CDATA[83106104, Warner Bros Entertainment]]></credit>
+        </video>
+         <video>
+          <id>85084245</id>
+          <images>
+            <small>GettyImages_85084245_n.jpg</small>
+            <medium>GettyImages_85084245_n.jpg</medium>
+          </images>
+          <flv>GettyImages_85084245_n.flv</flv>
+          <credit><![CDATA[85084245, one80]]></credit>
+        </video>
+         <video>
+          <id>85400827</id>
+          <images>
+            <small>GettyImages_85400827_n.jpg</small>
+            <medium>GettyImages_85400827_n.jpg</medium>
+          </images>
+          <flv>GettyImages_85400827_n.flv</flv>
+          <credit><![CDATA[85400827, Image Bank Film]]></credit>
+        </video>
+         <video>
+          <id>86267546</id>
+          <images>
+            <small>GettyImages_86267546_n.jpg</small>
+            <medium>GettyImages_86267546_n.jpg</medium>
+          </images>
+          <flv>GettyImages_86267546_n.flv</flv>
+          <credit><![CDATA[86267546, Image Bank Film]]></credit>
+        </video>
+         <video>
+          <id>86267563</id>
+          <images>
+            <small>GettyImages_86267563_n.jpg</small>
+            <medium>GettyImages_86267563_n.jpg</medium>
+          </images>
+          <flv>GettyImages_86267563_n.flv</flv>
+          <credit><![CDATA[86267563, Image Bank Film]]></credit>
+        </video>
+         <video>
+          <id>87919842</id>
+          <images>
+            <small>GettyImages_87919842_n.jpg</small>
+            <medium>GettyImages_87919842_n.jpg</medium>
+          </images>
+          <flv>GettyImages_87919842_n.flv</flv>
+          <credit><![CDATA[87919842, Image Bank Film]]></credit>
+        </video>
+         <video>
+          <id>87919848</id>
+          <images>
+            <small>GettyImages_87919848_n.jpg</small>
+            <medium>GettyImages_87919848_n.jpg</medium>
+          </images>
+          <flv>GettyImages_87919848_n.flv</flv>
+          <credit><![CDATA[87919848, Image Bank Film]]></credit>
+        </video>
+         <video>
+          <id>87919858</id>
+          <images>
+            <small>GettyImages_87919858_n.jpg</small>
+            <medium>GettyImages_87919858_n.jpg</medium>
+          </images>
+          <flv>GettyImages_87919858_n.flv</flv>
+          <credit><![CDATA[87919858, Image Bank Film]]></credit>
+        </video>
+         <video>
+          <id>87919867</id>
+          <images>
+            <small>GettyImages_87919867_n.jpg</small>
+            <medium>GettyImages_87919867_n.jpg</medium>
+          </images>
+          <flv>GettyImages_87919867_n.flv</flv>
+          <credit><![CDATA[87919867, one80]]></credit>
+        </video>
+	 <video>
+          <id>88524764</id>
+          <images>
+            <small>GettyImages_88524764_n.jpg</small>
+            <medium>GettyImages_88524764_n.jpg</medium>
+          </images>
+          <flv>GettyImages_88524764_n.flv</flv>
+          <credit><![CDATA[88524764, one80]]></credit>
+        </video>
+         <video>
+          <id>88621980</id>
+          <images>
+            <small>GettyImages_88621980_n.jpg</small>
+            <medium>GettyImages_88621980_n.jpg</medium>
+          </images>
+          <flv>GettyImages_88621980_n1.flv</flv>
+          <credit><![CDATA[88621980, one80]]></credit>
+          </video>
+      </footage>
+    </why>
+
+
+  </collections>
+
+</likebox>
